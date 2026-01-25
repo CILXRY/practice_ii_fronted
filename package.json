@@ -3,12 +3,17 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev --host 0.0.0.0",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.16.15"
+    "astro": "^5.16.15",
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "@astrojs/vue": "^5.1.4",
+    "unocss": "^66.6.0"
   }
 }
