@@ -123,9 +123,7 @@ const isCorrect = computed(() => {
 
 const loadQuestions = async () => {
   try {
-    const res = await fetch(
-      "/api/question?category=统一测试&limit=10 ",
-    );
+    const res = await fetch(`/api/question?category=统一测试&limit=10&t= $ {Date.now()}`);
     const data = await res.json();
     allQuestions.value = data;
     currentIndex.value = 0;
