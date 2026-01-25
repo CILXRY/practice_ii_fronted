@@ -1,18 +1,18 @@
 // src/pages/api/question.ts
 // src/pages/api/question.ts
-import type { APIRoute } from 'astro';
+import type { APIRoute } from "astro";
 
 export const GET: APIRoute = async ({ request }) => {
   const url = new URL(request.url);
-  const category = url.searchParams.get('category') || '统一测试';
-  const limit = url.searchParams.get('limit') || '10';
+  const category = url.searchParams.get("category") || "统一测试";
+  const limit = url.searchParams.get("limit") || "10";
 
   const backendUrl = `http://8.159.156.167:8223/question/get_question?category=${category}&limit=${limit}&t=${Date.now()}`;
 
   try {
     const res = await fetch(backendUrl, {
       headers: {
-        'User-Agent': 'Vercel-Proxy',
+        "User-Agent": "Vercel-Proxy",
       },
     });
 
@@ -21,14 +21,17 @@ export const GET: APIRoute = async ({ request }) => {
     return new Response(body, {
       status: res.status,
       headers: {
-        'Content-Type': res.headers.get('content-type') || 'application/json',
+        "Content-Type": res.headers.get("content-type") || "application/json",
+        "Cache-Control": "no-cache, no-store, must-revalidate", // ← 关键！
+        'Pragma': "no-cache",
+        'Expires': "0",
       },
     });
   } catch (error) {
-    console.error('Proxy network error:', error);
-    return new Response(JSON.stringify({ error: 'Proxy failed' }), {
+    console.error("Proxy network error:", error);
+    return new Response(JSON.stringify({ error: "Proxy failed" }), {
       status: 502,
-      headers: { 'Content-Type': 'application/json' },
+      headers: { "Content-Type": "application/json" },
     });
   }
 };
