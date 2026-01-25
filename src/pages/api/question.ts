@@ -7,7 +7,7 @@ export const GET: APIRoute = async ({ request }) => {
   const category = url.searchParams.get('category') || '统一测试';
   const limit = url.searchParams.get('limit') || '10';
 
-  const backendUrl = `http://8.159.156.167:8223/question/get_question?category=${category}&limit=${limit}`;
+  const backendUrl = `http://8.159.156.167:8223/question/get_question?category=${category}&limit=${limit}&t=${Date.now()}`;
 
   try {
     const res = await fetch(backendUrl, {
