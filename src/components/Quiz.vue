@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!currentQuestion" class="text-center py-10">加载中...</div>
+  <div v-if="!currentQuestion" class="text-center py-10"> 加载中 ...</div>
   <div
     class="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100"
   >
@@ -14,7 +14,7 @@
         <div
           class="inline-flex items-center px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-medium mb-4"
         >
-          {{ currentQuestion?.category || "通用" }}
+          {{ currentQuestion?.category || " 通用 " }}
         </div>
         <h2
           class="text-xl md:text-2xl font-semibold text-gray-900 leading-relaxed"
@@ -80,10 +80,10 @@
           class="p-4 rounded-xl border mb-4"
         >
           <div class="flex items-center gap-2">
-            <span v-if="isCorrect" class="text-green-600 text-xl">✅</span>
-            <span v-else class="text-red-600 text-xl">❌</span>
+            <span v-if="isCorrect" class="text-green-600 text-xl"> ✅ </span>
+            <span v-else class="text-red-600 text-xl"> ❌ </span>
             <span class="font-bold text-lg">
-              {{ isCorrect ? "回答正确！" : "再想想哦～" }}
+              {{ isCorrect ? " 回答正确！" : " 再想想哦～" }}
             </span>
           </div>
           <p class="mt-2 text-gray-700">
@@ -94,7 +94,7 @@
         </div>
 
         <div v-if="currentQuestion?.analysis" class="prose prose-sm max-w-none">
-          <p class="font-medium text-gray-800 mb-1">💡 解析：</p>
+          <p class="font-medium text-gray-800 mb-1"> 💡 解析：</p>
           <p class="text-gray-700">{{ currentQuestion?.analysis }}</p>
         </div>
       </div>
@@ -123,13 +123,13 @@ const isCorrect = computed(() => {
 
 const loadQuestions = async () => {
   try {
-    const res = await fetch(`/api/question?category=统一测试&limit=400&t=${Date.now()}`);
+    const res = await fetch(`http://8.159.156.167:8223/question/get_question?category=%E7%BB%9F%E4%B8%80%E6%B5%8B%E8%AF%95&limit=10`);
     const data = await res.json();
     allQuestions.value = data;
     currentIndex.value = 0;
     resetState();
   } catch (err) {
-    console.error("加载题目失败", err);
+    console.error(" 加载题目失败 ", err);
   }
 };
 
@@ -149,7 +149,7 @@ const nextQuestion = () => {
     resetState();
   } else {
     // 最后一题了，可以提示“重新开始”或加载新批次
-    alert("这是最后一题啦！点击重新开始");
+    alert(" 这是最后一题啦！点击重新开始 ");
     loadQuestions(); // 或者只重置 index
   }
 };
