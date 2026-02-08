@@ -123,7 +123,7 @@ const isCorrect = computed(() => {
 
 const loadQuestions = async () => {
   try {
-    const res = await fetch(`http://8.159.156.167:8223/question/get_question?category=%E7%BB%9F%E4%B8%80%E6%B5%8B%E8%AF%95&limit=10`);
+    const res = await fetch(`http://localhost:8223/question/get_question?category=%E7%BB%9F%E4%B8%80%E6%B5%8B%E8%AF%95&limit=10`);
     const data = await res.json();
     allQuestions.value = data;
     currentIndex.value = 0;
