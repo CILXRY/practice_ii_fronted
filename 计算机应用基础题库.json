@@ -1,0 +1,7614 @@
+[
+  {
+    "type": "single_choice",
+    "question": "实现信息化的核心任务是______。",
+    "options": [
+      "（A）信息资源的开发与存储",
+      "（B）信息资源的存储与利用",
+      "（C）信息资源的开发与利用",
+      "（D）信息资源的开发，存储与利用"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "我们常指的信息即______。",
+    "options": [
+      "（A）有价值的消息",
+      "（B）报张杂志上所刊登的所有消息",
+      "（C）有关科学技术发展历史上的全部资料",
+      "（D）来自国外的消息"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "现在我们常常听人家说到（或在报纸电视上也看到）IT 行业各种各样的消息。那么这里所提到的“IT”指的是______。",
+    "options": [
+      "（A）信息",
+      "（B）信息技术",
+      "（C）通信技术",
+      "（D）感测技术"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息社会诸产业中的支柱产业是以______为特征的信息产业。",
+    "options": [
+      "（A）网络技术",
+      "（B）通信技术",
+      "（C）计算机技术",
+      "（D）信息技术"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "要通过权威部门获取信息，不要轻信谣言，这说明要从信息的______方面判断其价值。",
+    "options": [
+      "（A）价值取向",
+      "（B）来源",
+      "（C）时效性",
+      "（D）多样性"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息产业是以______为基础的。",
+    "options": [
+      "（A）微电子技术、通讯技术、网络技术",
+      "（B）微电子技术、通信技术、计算机技术",
+      "（C）微电子技术、通讯技术、企业管理技术",
+      "（D）微电子技术、通讯技术、高新技术"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息产业的飞速发展，最终为实现______信息化创造了有利条件。",
+    "options": [
+      "（A）工业经济",
+      "（B）农业经济",
+      "（C）国民经济",
+      "（D）产业经济"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "发展电子商务，基础是企业______。",
+    "options": [
+      "（A）科学化",
+      "（B）产业化",
+      "（C）信息化",
+      "（D）工业化"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关信息产业的论述，______是错误的。",
+    "options": [
+      "（A）信息产业是传统产业部门独立出来的",
+      "（B）信息产业是信息化的必然产物",
+      "（C）信息产业是专门从事信息技术和资源的开发、存储和利用的产业",
+      "（D）信息产业是专门从事信息技术和资源的开发和利用的产业"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息设备制造业不包括______。",
+    "options": [
+      "（A）计算机设备制造业",
+      "（B）通信设备制造业",
+      "（C）微电子元器件制造业",
+      "（D）基础工程制造业"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息技术的发展大致可分为古代、近代和现代三个阶段，其中进入现代信息技术发展阶段的标志是________的出现。",
+    "options": [
+      "（A）电子计算机",
+      "（B）电视机",
+      "（C）互联网",
+      "（D）电话"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列哪项不是信息的主要特征______。",
+    "options": [
+      "（A）普遍性",
+      "（B）传递性",
+      "（C）依附性",
+      "（D）共享性"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "目前，在______的迅猛发展下，世界信息化进程加快。",
+    "options": [
+      "（A）Internet",
+      "（B）Novell",
+      "（C）Windows NET",
+      "（D）ISDN"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "当今世界以______为主要标志的科技进步日新月异。",
+    "options": [
+      "（A）科学技术",
+      "（B）网络技术",
+      "（C）多媒体技术",
+      "（D）信息技术"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息技术是在信息处理中所采取的技术和方法，也可看作是__________的一种技术。",
+    "options": [
+      "（A）信息存储功能",
+      "（B）扩展人感觉和记忆功能",
+      "（C）信息采集功能",
+      "（D）信息传递功能"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "当前______已成为最大的信息中心。",
+    "options": [
+      "（A）Intranet",
+      "（B）Internet",
+      "（C）Novell",
+      "（D）NT"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "目前较有发展前途的保障电子金融安全的措施是证书认证，简称______。",
+    "options": [
+      "（A）BC",
+      "（B）AC",
+      "（C）CA",
+      "（D）CB"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机辅助设计/计算机辅助制造的缩写为______。",
+    "options": [
+      "（A）CDA/CAM",
+      "（B）CAD/CMA",
+      "（C）CDA/CMA",
+      "（D）CAD/CAM"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "CAI 的中文含义是_____。",
+    "options": [
+      "（A）计算机辅助设计",
+      "（B）计算机辅助制造",
+      "（C）计算机辅助工程",
+      "（D）计算机辅助教学"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "教育信息化主要体现在全面运用______。",
+    "options": [
+      "（A）计算机多媒体和网络通信技术",
+      "（B）计算机多媒体和计算机辅助设计技术",
+      "（C）网络通信和计算机辅助设计技术",
+      "（D）网络通信和计算机辅助制造技术"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "获取信息的四个环节中，首先需要______。",
+    "options": [
+      "（A）确定信息来源",
+      "（B）确定信息需求",
+      "（C）采集信息",
+      "（D）保存评价信息"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "当前通讯技术所指的三网合一是______。",
+    "options": [
+      "（A）有线电视网，电话网，邮政网",
+      "（B）电话网，邮政网，计算机网",
+      "（C）有线电视网，邮政网，计算机网",
+      "（D）有线电视网，电话网，计算机网"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "物联网主要具有三个特征：一是互联网特征，二是识别与通信特征，三是________特征。",
+    "options": [
+      "（A）智能化",
+      "（B）高效计算",
+      "（C）并行",
+      "（D）分布式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "数据库的简称是______。",
+    "options": [
+      "（A）AB",
+      "（B）DB",
+      "（C）BA",
+      "（D）BD"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下述______软件不属于数据库管理系统。",
+    "options": [
+      "（A）Access",
+      "（B）SQL Server",
+      "（C）Oracle",
+      "（D）Windows 10"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "现今计算机应用得最广泛的是______。",
+    "options": [
+      "（A）程序处理",
+      "（B）数据(信息)处理",
+      "（C）指令处理",
+      "（D）语言处理"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "数据库是存放在计算机存储器中，相互关联的______的集合。",
+    "options": [
+      "（A）数据",
+      "（B）指令",
+      "（C）程序",
+      "（D）命令"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "多媒体即指______。",
+    "options": [
+      "（A）计算机所能处理的各种信息数据的集合体",
+      "（B）计算机内部多种部件的集合体",
+      "（C）计算机外部多种部件的集合体",
+      "（D）计算机内部和外部多种部件的集合体"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下述______不属于多媒体通信技术。",
+    "options": [
+      "（A）各种媒体的数字化",
+      "（B）数据的存储",
+      "（C）数据压缩",
+      "（D）数据高速传输"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "把模拟信号转换为数字信号为______。",
+    "options": [
+      "（A）A/D",
+      "（B）D/A",
+      "（C）A/I",
+      "（D）I/A"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机网络的目标是 。",
+    "options": [
+      "（A）连接多台计算机",
+      "（B）提高安全性",
+      "（C）分布处理",
+      "（D）共享资源"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "办公自动化系统的简称 。",
+    "options": [
+      "（A）SO",
+      "（B）OA",
+      "（C）AO",
+      "（D）AOS"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "属于计算机系统的基本软件。",
+    "options": [
+      "（A）操作系统",
+      "（B）文字处理软件",
+      "（C）电子表格处理软件",
+      "（D）电子排版系统"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "WordPerfect，Microsoft Word， 均是文字处理软件。",
+    "options": [
+      "（A）WPS",
+      "（B）Excel",
+      "（C）FoxPro",
+      "（D）E-mail"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "不是实现计算机文件输入和文件存储的设备。",
+    "options": [
+      "（A）微缩处理设备",
+      "（B）光学字符阅读机（OCR）",
+      "（C）光盘",
+      "（D）扫描仪"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机病毒是指_____________。",
+    "options": [
+      "（A）编制有错误的计算机程序",
+      "（B）设计不完善的计算机程序",
+      "（C）计算机的程序己被破坏",
+      "（D）以危害系统为目的的特殊的计算机程序"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机病毒就是程序，它的发病机制是______。",
+    "options": [
+      "（A）程序设计-潜伏",
+      "（B）程序设计-传播-潜伏",
+      "（C）程序设计-潜伏-破坏",
+      "（D）程序设计-传播-潜伏-破坏/传播"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下述______不属于计算机病毒的特征。",
+    "options": [
+      "（A）潜伏性，自灭性",
+      "（B）侵略性，破坏性",
+      "（C）传染性，隐蔽性",
+      "（D）破坏性，传染性"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机病毒主要是造成__________的损坏。",
+    "options": [
+      "（A）磁盘",
+      "（B）主机",
+      "（C）通信",
+      "（D）程序和数据"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于计算机病毒，正确的说法是_______。",
+    "options": [
+      "（A）计算机病毒是一种传染很强的生物细菌",
+      "（B）计算机病毒可以烧毁计算机的电子器件",
+      "（C）计算机病毒是一种人为特制的具有破坏性的程序",
+      "（D）计算机病毒一旦产生则无法清除"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "微处理器的主要性能指标是______。",
+    "options": [
+      "（A）主频",
+      "（B）硬盘容量",
+      "（C）总线结构",
+      "（D）内存容量"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机中完成各种算术运算和逻辑运算的部件称之为______。",
+    "options": [
+      "（A）运算器",
+      "（B）加法器",
+      "（C）控制器",
+      "（D）寄存器"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "依照冯.诺依曼结构,计算机硬件系统由________、控制器、存储器、输入设备和输出设备等五大部件组成。",
+    "options": [
+      "（A）运算器",
+      "（B）Cache",
+      "（C）硬盘",
+      "（D）CPU"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "常用的输出设备是指______",
+    "options": [
+      "（A）显示器和扫描仪",
+      "（B）硬盘和内存",
+      "（C）键盘和鼠标",
+      "（D）打印机和显示器"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列关于内存储器的叙述中正确的是________",
+    "options": [
+      "（A）通常说内存容量的大小是指只读存储器的大小",
+      "（B）通常说内存容量的大小是指随机存储器和只读存储器的容量之和",
+      "（C）只读存储器关机或断电后信息会丢失",
+      "（D）随机存储器关机或断电后信息会丢失"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "办公自动化是计算机的一项应用，按计算机应用的分类，它属于________",
+    "options": [
+      "（A）数值计算",
+      "（B）过程控制",
+      "（C）信息处理",
+      "（D）计算机辅助设计"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列四项中，不属于计算机病毒特征的是________",
+    "options": [
+      "（A）潜伏性",
+      "（B）传染性",
+      "（C）激发性",
+      "（D）免疫性"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "操作系统是一种________",
+    "options": [
+      "（A）应用软件",
+      "（B）高级语言",
+      "（C）系统软件",
+      "（D）数据库管理系统"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "某公司的工资管理程序属于",
+    "options": [
+      "（A）应用软件",
+      "（B）系统软件",
+      "（C）工具软件",
+      "（D）文字处理软件"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "某单位自行开发的工资管理系统，按计算机应用的类型划分，它属于",
+    "options": [
+      "（A）科学计算",
+      "（B）辅助设计",
+      "（C）数据处理",
+      "（D）实时控制"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列选项中哪一项不是多媒体技术的特征",
+    "options": [
+      "（A）集成性",
+      "（B）交互性",
+      "（C）高速性",
+      "（D）实时性"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "“蠕虫”往往是通过_______进入其他计算机系统。",
+    "options": [
+      "（A）网关",
+      "（B）系统",
+      "（C）网络",
+      "（D）防火墙"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机病毒，其本质是______。",
+    "options": [
+      "（A）语言",
+      "（B）程序",
+      "（C）指令",
+      "（D）数据"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "若 U 盘上染有病毒，为了防止该病毒传染计算机系统，正确的措施是___。",
+    "options": [
+      "（A）删除该 U 盘上所有程序",
+      "（B）给该 U 盘加上写保护",
+      "（C）将 U 盘放一段时间后再使用",
+      "（D）将该 U 盘重新格式化"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机病毒的主要特点是_______。",
+    "options": [
+      "（A）传播性、破坏性",
+      "（B）传染性、破坏性",
+      "（C）排它性、可读性",
+      "（D）隐蔽性、排它性"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "操作系统是一种",
+    "options": [
+      "（A）系统软件",
+      "（B）应用软件",
+      "（C）工具软件",
+      "（D）调试软件"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "ASCII 码是一种对_______进行编码的计算机代码。",
+    "options": [
+      "（A）汉字",
+      "（B）字符",
+      "（C）图像",
+      "（D）声音"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "冯·诺依曼的存储程序设计思想可概括为________",
+    "options": [
+      "（A）计算机应包括运算器、存储器、控制器、输入设备和输出设备",
+      "（B）计算机系统应包括硬件系统和操作系统",
+      "（C）计算机可以处理二进制、八进制、十进制、十六进制这四种数据",
+      "（D）计算机指令的执行分为取指令并译码和执行指令两步骤"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "时至今日，计算机仍采用存储程序原理，原理的提出者是_____",
+    "options": [
+      "（A）莫尔",
+      "（B）比尔•盖茨",
+      "（C）冯•诺依曼",
+      "（D）科得"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "冯•诺依曼原理中，计算机应包括的功能部件为_____",
+    "options": [
+      "（A）运算器、控制器、存储器、输入设备和输出设备",
+      "（B）运算器、存储器、显示器、输入设备和输出设备",
+      "（C）运算器、控制器、存储器、键盘和鼠标",
+      "（D）运算器、控制器、硬盘、输入设备和输出设备"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "冯·诺依曼首先提出的计算机设计思想的理论体系是________",
+    "options": [
+      "（A）计算机系统由主机和外设组成",
+      "（B）指令的执行分为取指令和执行指令两个过程",
+      "（C）以二进制数和存储程序的概念为基础",
+      "（D）计算机系统由硬件和软件组成"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "组成微型计算机硬件系统的是_____",
+    "options": [
+      "（A）CPU、存储器、输入设备、输出设备",
+      "（B）运算器、控制器、存储器、键盘、鼠标",
+      "（C）CPU、硬盘、软盘、显示器、打印机",
+      "（D）CPU、外存、输入设备、输出设备"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在计算机领域中，通常用英文单词“Byte”来表示________",
+    "options": [
+      "（A）字节",
+      "（B）二进制位",
+      "（C）字",
+      "（D）字长"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "一台计算机的内存容量为 256MB，如果用单位 KB 表示，则是________",
+    "options": [
+      "（A）2.56KB",
+      "（B）262166KB",
+      "（C）262144KB",
+      "（D）256000KB"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在计算机应用领域里，____是其最广泛的应用方面。",
+    "options": [
+      "（A）过程控制",
+      "（B）科学计算",
+      "（C）数据处理",
+      "（D）计算机辅助系统"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机系统中，指挥、协调计算机工作的部件是________",
+    "options": [
+      "（A）存储器",
+      "（B）寄存器",
+      "（C）运算器",
+      "（D）控制器"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机存储器中，一个字节由________位二进制位组成",
+    "options": [
+      "（A）4",
+      "（B）8",
+      "（C）16",
+      "（D）32"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "微机硬件系统中最核心的部件是________",
+    "options": [
+      "（A）CPU",
+      "（B）硬盘",
+      "（C）内存储器",
+      "（D）输入输出设备"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "通常所说的“裸机”是指的那种计算机，它仅有________",
+    "options": [
+      "（A）指令系统",
+      "（B）CPU",
+      "（C）硬件系统",
+      "（D）软件"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机系统中不可缺少的软件是_____",
+    "options": [
+      "（A）CPU",
+      "（B）操作系统",
+      "（C）应用软件",
+      "（D）互联网"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "常用的微机输入设备通常是指________",
+    "options": [
+      "（A）键盘和软盘",
+      "（B）键盘和鼠标",
+      "（C）键盘和显示器",
+      "（D）软盘和硬盘"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "将二进制数 011010110 转换成八进制数是______",
+    "options": [
+      "（A）326",
+      "（B）632",
+      "（C）214",
+      "（D）324"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "将十进制数 256 转换成对应的十六进制数，正确的结果是________",
+    "options": [
+      "（A）256H",
+      "（B）400H",
+      "（C）200H",
+      "（D）100H"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "执行逻辑“或”运算 01010100∨10010011 ，其运算结果是_____。",
+    "options": [
+      "（A）00010000",
+      "（B）11010111",
+      "（C）11100111",
+      "（D）11000111"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "执行逻辑“非”运算 10110101，其运算结果是______。",
+    "options": [
+      "（A）01001110",
+      "（B）01001010",
+      "（C）10101010",
+      "（D）01010101"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "执行逻辑“与”运算 10101110∧10110001 ，其运算结果是____。",
+    "options": [
+      "（A）01011111",
+      "（B）10100000",
+      "（C）00011111",
+      "（D）01000000"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "执行二进制算术运算 01010100 +10010011 ，其运算结果是_____。",
+    "options": [
+      "（A）11100111",
+      "（B）11000111",
+      "（C）00010000",
+      "（D）11101011"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "bit 的意思______。",
+    "options": [
+      "（A）0～7",
+      "（B）0～f",
+      "（C）0～9",
+      "（D）1 或 0"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "1KB＝________。",
+    "options": [
+      "（A）1000B",
+      "（B）10 的 10 次方 B",
+      "（C）1024B",
+      "（D）10 的 20 次方 B"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "十进制的整数化为二进制整数的方法是______。",
+    "options": [
+      "（A）乘 2 取整法",
+      "（B）除 2 取整法",
+      "（C）乘 2 取余法",
+      "（D）除 2 取余法"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果计算机在工作中突然断电，下列存储器中信息全部丢失的将是________",
+    "options": [
+      "（A）硬盘",
+      "（B）U 盘",
+      "（C）RAM",
+      "（D）ROM"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "“64 位微型计算机”中的“64”是指________",
+    "options": [
+      "（A）机器字长",
+      "（B）主频",
+      "（C）内存容量",
+      "（D）运算速度"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "操作系统的主要功能是________",
+    "options": [
+      "（A）把源程序转换为目标程序",
+      "（B）进行数据处理",
+      "（C）实现软、硬件转换",
+      "（D）管理计算机所有的软、硬件"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "信息处理进入了计算机世界，实质上是进入了______的世界。",
+    "options": [
+      "（A）模拟数字",
+      "（B）十进制数字",
+      "（C）二进制数字",
+      "（D）抽象数字"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "一个完整的计算机系统包括________两大部分。",
+    "options": [
+      "（A）控制器和运算器",
+      "（B）CPU 和 I/O 设备",
+      "（C）硬件和软件",
+      "（D）操作系统和计算机设备"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "二进制数中右起第 7 位的 1 相当于__________。",
+    "options": [
+      "（A）2 的 6 次方",
+      "（B）7 的 2 次方",
+      "（C）7 的 1 次方",
+      "（D）2 的 7 次方"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "鼠标器是微机的一种_____",
+    "options": [
+      "（A）输出设备",
+      "（B）输入设备",
+      "（C）存储设备",
+      "（D）运算设备"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "能将计算机运行结果以可见的方式向用户展示的部件是_____",
+    "options": [
+      "（A）存储器",
+      "（B）控制器",
+      "（C）输入设备",
+      "（D）输出设备"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机能直接执行的程序是_____",
+    "options": [
+      "（A）C 语言源程序",
+      "（B）高级语言程序",
+      "（C）机器语言程序",
+      "（D）汇编语言程序"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机之所以采用二进制，主要是因为_____",
+    "options": [
+      "（A）二进制的运算法则简单",
+      "（B）耗电量低",
+      "（C）二进制的运算进度高",
+      "（D）二进制表示的数据范围大"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列四个不同进制数中，最大的数是_____",
+    "options": [
+      "（A）十进制数 100",
+      "（B）二进制数 100",
+      "（C）十六进制数 100",
+      "（D）八进制数 100"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "数据、指令和程序在计算机内的存储形式为_____",
+    "options": [
+      "（A）二进制",
+      "（B）十六进制",
+      "（C）十进制",
+      "（D）因情况而定"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列不是计算机存储器件的是________。",
+    "options": [
+      "（A）总线",
+      "（B）主存",
+      "（C）Cache",
+      "（D）寄存器"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "AutoCAD 是__________软件。",
+    "options": [
+      "（A）计算机辅助教育",
+      "（B）计算机辅助设计",
+      "（C）计算机辅助测试",
+      "（D）计算机辅助管理"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机内部指令的编码形式都是______A__编码。",
+    "options": [
+      "（A）二进制",
+      "（B）八进制",
+      "（C）十进制",
+      "（D）十六进制"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于电子计算机的特点，以下论述错误的是_______",
+    "options": [
+      "（A）运行过程不能自动，连续进行，需人工干预",
+      "（B）运算速度快",
+      "（C）运算精度高",
+      "（D）具有记忆和逻辑判断能力"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关二进制的论述，下面______是错误的。",
+    "options": [
+      "（A）二进制数只有 0 和 1 两个数码",
+      "（B）二进制运算逢二进一",
+      "（C）二进制的权 2 的 0 次方，2 的 1 次方，2 的 2 次方",
+      "（D）二进制数只有二位数组成"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Java 是一种________。",
+    "options": [
+      "（A）数据库",
+      "（B）计算机设备",
+      "（C）程序设计语言",
+      "（D）应用软件"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机应用最广泛的应用领域是_____。",
+    "options": [
+      "（A）数值计算",
+      "（B）数据处理",
+      "（C）过程控制",
+      "（D）人工智能"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "微机中 MHz 是描述_________的单位",
+    "options": [
+      "（A）内存",
+      "（B）外存",
+      "（C）主频",
+      "（D）速度"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "存放在外存上的数据，________。",
+    "options": [
+      "（A）CPU可直接访问",
+      "（B）关机后会丢失",
+      "（C）是高速缓冲存储器中的信息",
+      "（D）CPU 访问前必须先装入内存"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机最早的应用领域是________",
+    "options": [
+      "（A）科学计算",
+      "（B）信息处理",
+      "（C）过程控制",
+      "（D）人工智能"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "微型计算机的档次是按______划分的。",
+    "options": [
+      "（A）外部设备",
+      "（B）底板",
+      "（C）存储器",
+      "（D）CPU"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机的核心中央处理器简称_______。",
+    "options": [
+      "（A）PUC",
+      "（B）PCU",
+      "（C）CPU",
+      "（D）CUP"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机中的只读存储器简称______。",
+    "options": [
+      "（A）CD",
+      "（B）RAM",
+      "（C）ROM",
+      "（D）DRAM"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列存储介质中，CPU 能直接访问的是_____",
+    "options": [
+      "（A）内存储器",
+      "（B）硬盘",
+      "（C）U 盘",
+      "（D）光盘"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机中的随机存取存储器简称______。",
+    "options": [
+      "（A）ROM",
+      "（B）RAM",
+      "（C）CD",
+      "（D）CD-RM"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下面的字节数量换算______是对的。",
+    "options": [
+      "（A）1KB=1000B",
+      "（B）1Byte=8bit",
+      "（C）1MB=1000KB",
+      "（D）1GB=1000MB"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "我们通常说的内存条即指______。",
+    "options": [
+      "（A）ROM",
+      "（B）EPROM",
+      "（C）PPROM",
+      "（D）RAM"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "______不属于计算机的外存储器。",
+    "options": [
+      "（A）软盘",
+      "（B）硬盘",
+      "（C）内存条",
+      "（D）光盘"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机断电或重新启动后，________中的信息丢失。",
+    "options": [
+      "（A）CD-ROM",
+      "（B）RAM",
+      "（C）光盘",
+      "（D）硬盘"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在计算机内，多媒体数据最终是以_____形式存在的。",
+    "options": [
+      "（A）二进制代码",
+      "（B）特殊的压缩码",
+      "（C）模拟数据",
+      "（D）图形"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "用于废止当前命令的键是______。",
+    "options": [
+      "（A）Enter",
+      "（B）Escape",
+      "（C）Alt",
+      "（D）Ctrl"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "微型计算机使用的键盘中，Shift 键是",
+    "options": [
+      "（A）换档键",
+      "（B）退格键",
+      "（C）空格键",
+      "（D）回车换行键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "输入一个按钮上的上档字符，可采用换档键______进行组合操作。",
+    "options": [
+      "（A）Alt",
+      "（B）Ctrl",
+      "（C）Shift",
+      "（D）Tab"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "______属于计算机的输入设备。",
+    "options": [
+      "（A）鼠标、键盘",
+      "（B）鼠标、显示器",
+      "（C）键盘、显示器",
+      "（D）键盘、打印机"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "和内存储器相比，外存储器的特点是______。",
+    "options": [
+      "（A）容量大，速度快，成本低",
+      "（B）容量大，速度慢，成本低",
+      "（C）容量小，速度快，成本高",
+      "（D）容量小，速度快，成本低"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机屏幕的分辨率是由______决定的。",
+    "options": [
+      "（A）显示器",
+      "（B）显示卡",
+      "（C）显示内存",
+      "（D）显示器、显示卡和显示内存"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "激光打印机实际上是______、计算机和激光技术的有机结合。",
+    "options": [
+      "（A）点阵打印机",
+      "（B）喷墨打印机",
+      "（C）传真机",
+      "（D）复印机"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "______属于应用软件。",
+    "options": [
+      "（A）Windows",
+      "（B）Excel",
+      "（C）FoxPro",
+      "（D）Oracle"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机系统启动时，如果多按了一下______，将进入 CMOS 的系统设置。",
+    "options": [
+      "（A）Alt 键",
+      "（B）Del 键",
+      "（C）Shift 键",
+      "（D）Ctrl 键"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "指令的操作码表示的是______。",
+    "options": [
+      "（A）做什么操作",
+      "（B）停止操作",
+      "（C）操作结果",
+      "（D）操作地址"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "光盘，一般是指 CD-ROM、 、DVD-ROM 以及可读写光盘。",
+    "options": [
+      "（A）RAM",
+      "（B）ROM",
+      "（C）VCD",
+      "（D）DRAM"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关带电源管理功能的系统主板的论述 是错的。",
+    "options": [
+      "（A）带有电源管理功能的系统主板称为绿色主板",
+      "（B）电源管理功能可在 CMOS 中进行设置",
+      "（C）电源管理功能使电脑具有节能效应",
+      "（D）电源管理功能即为失电保护功能"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下面关于 RAM 的说法，错误的是 。",
+    "options": [
+      "（A）CPU 对 RAM 即能读又能写",
+      "（B）微机掉电后，RAM 中的信息将全部丢失",
+      "（C）重新启动微机，RAM 中的信息将全部丢失",
+      "（D）一台微机只有 640KB 大小的 RAM"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列选项中，不属于选购 LCD 显示器时要考虑的显示器性能指标是_______",
+    "options": [
+      "（A）屏幕尺寸",
+      "（B）响应时间",
+      "（C）亮度和对比度",
+      "（D）显示存储容量"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "常见的微型计算机外部输入设备中最常用的设备是________。",
+    "options": [
+      "（A）显示器和打印机",
+      "（B）扫描仪和手写输入板",
+      "（C）键盘和鼠标",
+      "（D）游戏杆和轨迹球"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "显示器的主要参数之一是分辩率，其含义是______。",
+    "options": [
+      "（A）显示屏幕的水平和垂直扫描频率",
+      "（B）显示屏幕上光栅的列数和行数",
+      "（C）可显示不同颜色的总数",
+      "（D）同一幅画允许显示不同颜色的最大数目"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关存贮器读写速度的排列，正确的是 。",
+    "options": [
+      "（A）RAM>Cache>硬盘>软盘",
+      "（B）Cache>RAM>硬盘>软盘",
+      "（C）Cache>硬盘>RAM>软盘",
+      "（D）RAM>硬盘>软盘>Cache"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下述进制的概念 是对的。",
+    "options": [
+      "（A）1KB=210 字节",
+      "（B）1MB=210 字节",
+      "（C）1GB=210 字节",
+      "（D）1TB=210 字节"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机系统的内部总线，主要可分为控制总线、________和地址总线。",
+    "options": [
+      "（A）DMA 总线",
+      "（B）数据总线",
+      "（C）PCI 总线",
+      "（D）RS-232"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "I/O 口有串、并之分，串行口能 。",
+    "options": [
+      "（A）一次同时传送八路一位二进制信号",
+      "（B）一次传送一路一位二进制信号",
+      "（C）一次同时传送十六路一位二进制信号",
+      "（D）一次传送十六路十六位二进制信号"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "目前，制造计算机 CPU 所使用的电子元件是 。",
+    "options": [
+      "（A）大规模集成电路",
+      "（B）晶体管",
+      "（C）集成电路",
+      "（D）大规模或超大规模集成电路"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子数字计算机工作最重要的特征是 。",
+    "options": [
+      "（A）高速度",
+      "（B）高精度",
+      "（C）存储程序和程序控制",
+      "（D）记忆力强"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在计算机内部，数据加工、处理和传送的形式是 。",
+    "options": [
+      "（A）二进制码",
+      "（B）八进制码",
+      "（C）十进制码",
+      "（D）十六进制码"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "ASCII 码在计算机中的表示方式为 。",
+    "options": [
+      "（A）1 个字节，最高位为 0",
+      "（B）1 个字节，最高位为 1",
+      "（C）7 位二进制码，最高位为 0",
+      "（D）7 位二进制码，最高位为 1"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "十进制数 241 转换成 8 位二进制数是 。",
+    "options": [
+      "（A）11110001",
+      "（B）10111111",
+      "（C）11111001",
+      "（D）10110001"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "图像文件的扩展名为 。",
+    "options": [
+      "（A）.COM",
+      "（B）.BMP",
+      "（C）.AVI",
+      "（D）.TXT"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "1GB 等于________。",
+    "options": [
+      "（A）1024B",
+      "（B）1024KB",
+      "（C）1024MB",
+      "（D）1024bit"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机键盘上的 Esc 键的功能一般是________。",
+    "options": [
+      "（A）确认",
+      "（B）取消",
+      "（C）控制",
+      "（D）删除"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "键盘上的_______键是控制键盘输入大小写切换的。",
+    "options": [
+      "（A）Shift",
+      "（B）Ctrl",
+      "（C）NumLock",
+      "（D）Caps Lock"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列_______键用于删除光标后面的字符。",
+    "options": [
+      "（A）Delete",
+      "（B）→",
+      "（C）Insert",
+      "（D）BackSpace"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列________键用于删除光标前面的字符。",
+    "options": [
+      "（A）Delete",
+      "（B）→",
+      "（C）Insert",
+      "（D）BackSpace"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "用于插入/改写编辑方式切换的键是_______。",
+    "options": [
+      "（A）Ctrl",
+      "（B）Shift",
+      "（C）Alt",
+      "（D）Insert"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于计算机总线的说明不正确的是____。",
+    "options": [
+      "（A）计算机的五大部件通过总线连接形成一个整体",
+      "（B）总线是计算机各个部件之间进行信息传递的一组公共通道",
+      "（C）根据总线中流动的信息不同分为地址总线、数据总线、控制总线",
+      "（D）数据总线是单向的，地址总线是双向的"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "文本文件的扩展名为 。",
+    "options": [
+      "（A）.COM",
+      "（B）.BMP",
+      "（C）.AVI",
+      "（D）.TXT"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "一般情况下调整显示器的____，可减少显示器屏幕图像的闪烁或抖动。",
+    "options": [
+      "（A）显示分辨率",
+      "（B）屏幕尺寸",
+      "（C）灰度和颜色",
+      "（D）刷新频率"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "常用打印机中，印字质量最好的打印机是_____。",
+    "options": [
+      "（A）激光打印机",
+      "（B）针式打印机",
+      "（C）喷墨打印机",
+      "（D）热敏打印机"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "不间断电源系统又称 。",
+    "options": [
+      "（A）USB",
+      "（B）UPS",
+      "（C）PUS",
+      "（D）PCI"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "存放一个字符的 ASCII 码占用______个字节。",
+    "options": [
+      "（A）7",
+      "（B）8",
+      "（C）16",
+      "（D）1"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下选项中，__________读写速度最快。",
+    "options": [
+      "（A）光盘",
+      "（B）U 盘",
+      "（C）硬盘",
+      "（D）RAM"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 的各个版本中，支持的功能最少的是 。",
+    "options": [
+      "（A）家庭普通版",
+      "（B）家庭高级版",
+      "（C）专业版",
+      "（D）旗舰版"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "当前窗口处于最大化状态，双击该窗口标题栏，则相当于单击______。",
+    "options": [
+      "（A）最小化",
+      "（B）关闭按钮",
+      "（C）还原按钮",
+      "（D）系统控制按钮"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中，当一个应用程序窗口被最小化后，该应用程序_____。",
+    "options": [
+      "（A）被转入后台执行",
+      "（B）被暂停执行",
+      "（C）被终止执行",
+      "（D）继续在前台执行"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中，选定多个连续的文件或文件夹，应首先选定第一个文件或文件夹，然后按_______键，单击最后一个文件或文件夹。",
+    "options": [
+      "（A）Tab",
+      "（B）Alt",
+      "（C）Shift",
+      "（D）Ctrl"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中已经选定了若干文件和文件夹，用鼠标操作来添加或取消某一个选定，需配合的键为________",
+    "options": [
+      "（A）Alt",
+      "（B）Esc",
+      "（C）Ctrl",
+      "（D）Shift"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Windows 10 概念的正确描述是________。",
+    "options": [
+      "（A）屏幕上只能出现一个窗口，这就是活动窗口",
+      "（B）屏幕上可以出现多个窗口，但至多只有一个是活动窗口",
+      "（C）屏幕上可以出现多个窗口，但不止一个是活动窗口",
+      "（D）屏幕上可以出现多个活动窗口"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的桌面上，任务栏中最左侧的一个按钮是_____",
+    "options": [
+      "（A）“打开”按钮",
+      "（B）“还原”按钮",
+      "（C）“开始”按钮",
+      "（D）“确定”按钮"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "当选定文件或文件夹后，按 Shift+Delete 键的结果是_____",
+    "options": [
+      "（A）删除选定对象并放入回收站",
+      "（B）对选定的对象不产生任何影响",
+      "（C）选定对象不放入回收站而直接删除",
+      "（D）恢复被选定对象的副本"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中，被放入回收站中的文件仍然占用_____",
+    "options": [
+      "（A）硬盘空间",
+      "（B）内存空间",
+      "（C）软件空间",
+      "（D）光盘空间"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，获得联机帮助的热键是_____",
+    "options": [
+      "（A）F1",
+      "（B）Alt",
+      "（C）Esc",
+      "（D）Home"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 图形界面中，按________可以打开开始菜单。",
+    "options": [
+      "（A）〈Alt〉+〈Esc〉",
+      "（B）〈Ctrl〉+〈Esc〉",
+      "（C）〈Alt〉+〈Tab〉",
+      "（D）〈Ctrl〉+〈Tab〉"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中删除某程序的快捷键方式图标，表示______。",
+    "options": [
+      "（A）既删除了图标，又删除该程序",
+      "（B）只删除了图标而没有删除该程序",
+      "（C）隐藏了图标，删除了与该程序的联系",
+      "（D）将图标存放在剪贴板上，同时删除了与该程序的联系"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "是 Windows 10 推出的第一大特色，它就是最近使用的项目列表，能够帮助用户迅速地访问历史记录。",
+    "options": [
+      "（A）跳转列表",
+      "（B）Aero 特效",
+      "（C）Flip 3D",
+      "（D）Windows 家庭组"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "利用 Windows 10“搜索”功能查找文件时，说法正确的是_____",
+    "options": [
+      "（A）要求被查找的文件必须是文本文件",
+      "（B）根据日期查找时，必须输入文件的最后修改日期",
+      "（C）根据文件名查找时，至少需要输入文件名的一部分或通配符",
+      "（D）被用户设置为隐藏的文件，只要符合查找条件，在任何情况下都将被找出来"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，可以移动窗口位置的操作是_____",
+    "options": [
+      "（A）用鼠标拖动窗口的菜单栏",
+      "（B）用鼠标拖动窗口的标题栏",
+      "（C）用鼠标拖动窗口的边框",
+      "（D）用鼠标拖动窗口的工作区"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 环境下,若要把整个桌面的图像复制到剪贴板,可用________。",
+    "options": [
+      "（A）〈PrintScreen〉键",
+      "（B）〈Alt〉+〈PrintScreen〉组合键",
+      "（C）〈Ctrl〉+〈PrintScreen〉组合键",
+      "（D）〈Shift〉+〈PrintScreen〉组合键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中资源管理器中，要把 C 盘上的某个文件夹或文件移到 D 盘上，用鼠标操作时应该_____",
+    "options": [
+      "（A）直接拖动",
+      "（B）双击",
+      "（C）Shift+拖动",
+      "（D）Ctrl+拖动"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 资源管理器中，下列关于新建文件夹的正确做法是：在右窗格的空白区域",
+    "options": [
+      "（A）单击鼠标左键，在弹出的菜单中选择“新建→文件夹”",
+      "（B）单击鼠标右键，在弹出的菜单中选择“新建→文件夹”",
+      "（C）双击鼠标左键，在弹出的菜单中选择“新建→文件夹”",
+      "（D）三击鼠标左键，在弹出的菜单中选择“新建→文件夹”"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "用户在运行某些应用程序时，若程序运行界面在屏幕上的显示不完整时，正确的做法是_____",
+    "options": [
+      "（A）升级 CPU 或内存",
+      "（B）更改窗口的字体、大小、颜色",
+      "（C）升级硬盘",
+      "（D）更改系统显示属性，重新设置分辨率"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 的窗口中，单击最小化按钮后_____",
+    "options": [
+      "（A）当前窗口将消失",
+      "（B）当前窗口被关闭",
+      "（C）当前窗口缩小为图标",
+      "（D）打开控制菜单"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "平时所说的安装一个程序，是安装在计算机的哪一个硬件中",
+    "options": [
+      "（A）硬盘",
+      "（B）内存",
+      "（C）光盘",
+      "（D）CPU"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中播放音频文件，必须具有的硬件是_____",
+    "options": [
+      "（A）媒体播放器",
+      "（B）声卡",
+      "（C）CD 播放器",
+      "（D）录音机"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列关于中文 Windows 10 中的文件名的说法不正确的是_____",
+    "options": [
+      "（A）Windows 10 中的文件名可以含有汉字",
+      "（B）Windows 10 中的文件名可以含有空格",
+      "（C）Windows 10 中的文件名长度可超过 256 个字符",
+      "（D）Windows 10 中的文件名中不允许出现“?”、“\\”、“<”、“>”等字符"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 附件中的“画图”软件中，使用矩形工具画一个正方形时，需同时按下_____",
+    "options": [
+      "（A）Ctrl 键",
+      "（B）Shift 键",
+      "（C）Alt 键",
+      "（D）Tab 键"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "利用“控制面板”的“程序和功能” _____",
+    "options": [
+      "（A）可以删除 Windows 组件",
+      "（B）可以删除 Windows 硬件驱动程序",
+      "（C）可以删除 Word 文档模板",
+      "（D）可以删除程序的快捷方式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "打开 Windows 10 窗口控制菜单的组合键是_____",
+    "options": [
+      "（A）Ctrl+空格键",
+      "（B）Shift+空格键",
+      "（C）Alt+空格键",
+      "（D）Esc+空格键"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的资源管理器窗口，如果希望显示出“菜单”栏，可按 键。",
+    "options": [
+      "（A）<Shift>",
+      "（B）<Ctrl>",
+      "（C）<Alt>",
+      "（D）<F1>"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，当按下组合键 Alt+PrintScreen 时，“剪贴板中所保存的内容是_____",
+    "options": [
+      "（A）当前的全屏幕画面",
+      "（B）活动窗口的画面",
+      "（C）选定区域的画面",
+      "（D）选定菜单或控件的画面"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "双击鼠标通常进行的操作是_____",
+    "options": [
+      "（A）选定或启动命令",
+      "（B）调出快捷菜单",
+      "（C）移动应用程序窗口",
+      "（D）打开应用程序"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "若要快速查看桌面小工具和文件夹，而又不希望逐个最小化所有打开的窗口，可以使用 功能。",
+    "options": [
+      "（A）Aero Snap",
+      "（B）Aero Shake",
+      "（C）Aero Peek",
+      "（D）Flip 3D"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "当一个应用程序窗口被最小化后，该应用程序将_____",
+    "options": [
+      "（A）被终止执行",
+      "（B）被转入后台执行",
+      "（C）被暂停执行",
+      "（D）继续在前台执行"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 的休眠模式下，系统的状态是 的。",
+    "options": [
+      "（A）保存在 U 盘中",
+      "（B）保存在硬盘中",
+      "（C）保存在内存中",
+      "（D）不被保存"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 的资源管理器中，选择________查看方式可以显示文件的“大小”和“修改日期”。",
+    "options": [
+      "（A）大图标",
+      "（B）小图标",
+      "（C）列表",
+      "（D）详细信息"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "桌面图标实质上是",
+    "options": [
+      "（A）程序",
+      "（B）文本文件",
+      "（C）快捷方式",
+      "（D）文件夹"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "当键盘处于英文大写状态时，按 Shift+A 键，输入的是_____",
+    "options": [
+      "（A）A",
+      "（B）a",
+      "（C）Aa",
+      "（D）aA"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 资源管理窗口要显示传统的地址栏，可以",
+    "options": [
+      "（A）按<Alt>",
+      "（B）按<Ctrl>",
+      "（C）按<Shift>",
+      "（D）在地址栏空白处点击鼠标左键"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 操作环境下，要将整个屏幕画面全部复制到剪贴板中应该用____键。",
+    "options": [
+      "（A）PrintScreen",
+      "（B）PageUp",
+      "（C）Alt+F4",
+      "（D）Ctrl+Space"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，“录音机”录制的声音被保存的文件格式为_____",
+    "options": [
+      "（A）MP3",
+      "（B）MID",
+      "（C）WMA",
+      "（D）WAV"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "根据文件的扩展名判断哪个属于图像文件",
+    "options": [
+      "（A）照片.txt",
+      "（B）文章.bmp",
+      "（C）歌曲.doc",
+      "（D）歌词.wav"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的整个显示器屏幕称为__________。",
+    "options": [
+      "（A）窗口",
+      "（B）桌面",
+      "（C）任务栏",
+      "（D）选项卡"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "一个文件的路径是用来描述",
+    "options": [
+      "（A）文件存在哪个磁盘上",
+      "（B）文件在磁盘的目录位置",
+      "（C）程序的执行步骤",
+      "（D）用户操作步骤"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 系统通用桌面图标有五个，但不包含 键。",
+    "options": [
+      "（A）计算机",
+      "（B）用户的文件",
+      "（C）控制面板",
+      "（D）IE 游览器"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "启动 Windows 10 后，系统默认的文档保存位置是_____",
+    "options": [
+      "（A）桌面",
+      "（B）我的电脑",
+      "（C）我的文档",
+      "（D）网上邻居"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，要设置显示器的分辨率，应该选择控制面板中的_____",
+    "options": [
+      "（A）系统和安全",
+      "（B）硬件和声音",
+      "（C）程序",
+      "（D）外观及个性化"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果要新增或删除程序，可以在控制版上选用 功能。",
+    "options": [
+      "（A）系统和安全",
+      "（B）硬件和声音",
+      "（C）程序",
+      "（D）外观及个性化"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 窗口中，单击鼠标右键出现_____",
+    "options": [
+      "（A）对话框",
+      "（B）快捷菜单",
+      "（C）文档窗口",
+      "（D）应用程序窗口"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "________是Windows 10推出的一大特色，它就是最近使用的项目列表，能够帮助用户迅速地访问历史纪录。",
+    "options": [
+      "（A）跳转列表",
+      "（B）Aero特效",
+      "（C）Flip3D",
+      "（D）Windows家庭组"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "使用 能可以让两个窗口平分整个屏幕的面积，并左右排列在一起。",
+    "options": [
+      "（A）Aero Snap",
+      "（B）Aero Shake",
+      "（C）Aero Peek",
+      "（D）Jump List"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果要暂时离开计算机且不希望让别人使用计算机时，可以选择",
+    "options": [
+      "（A）关机",
+      "（B）重新启动",
+      "（C）睡眠",
+      "（D）锁定"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "要激活 Windows 10 图标对象的快捷菜单，则选中该对象后进行鼠标的_____操作。",
+    "options": [
+      "（A）单击左键",
+      "（B）单击右键",
+      "（C）双击左键",
+      "（D）双击右键"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Window 7 中某一菜单项名称的右侧带“…”，则表明____。",
+    "options": [
+      "（A）菜单当前不可选",
+      "（B）该菜单存在下级菜单",
+      "（C）激活该菜单会弹出一个对话框",
+      "（D）该菜单为开关菜单"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在“画图”程序中画水平、垂直或沿 45 度方向的直线时，要按_____键。",
+    "options": [
+      "（A）Shift",
+      "（B）Ctrl",
+      "（C）Alt",
+      "（D）Space"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列可以进行各种输入法切换的组合键是_____。",
+    "options": [
+      "（A）Ctrl+Space",
+      "（B）Ctrl+Shift",
+      "（C）Shift+Space",
+      "（D）Shift+Alt"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，按压键盘上的<Windows 徽标>键将",
+    "options": [
+      "（A）打开选定文件",
+      "（B）关闭当前运作程序",
+      "（C）显示系统属性",
+      "（D）显示“开始”菜单"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 中将信息传送到剪贴板不正确的方法是_____。",
+    "options": [
+      "（A）用“复制”命令把选定的对象送到剪贴板",
+      "（B）用“剪切”命令把选定的对象送到剪贴板",
+      "（C）用 CTRL+V 把选定的对象送到剪贴板",
+      "（D）Alt+PrintScreen 把当前窗口送到剪贴板"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 资源管理器操作中，当打开一个子目录后，全部选中其中内容的快捷键_____。",
+    "options": [
+      "（A）Ctrl+C",
+      "（B）Ctrl+A",
+      "（C）Ctrl+X",
+      "（D）Ctrl+V"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，按下_____键并拖曳某一文件夹到一文件夹中，可完成对该程序项的复制操作。",
+    "options": [
+      "（A）Alt",
+      "（B）Shfit",
+      "（C）空格",
+      "（D）Ctrl"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，按住鼠标器左键同时移动鼠标器的操作称为_____。",
+    "options": [
+      "（A）单击",
+      "（B）双击",
+      "（C）拖曳",
+      "（D）启动"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，_____窗口的大小不可改变。",
+    "options": [
+      "（A）应用程序",
+      "（B）文档",
+      "（C）对话框",
+      "（D）活动"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 的回收站中，可以恢复_____。",
+    "options": [
+      "（A）从硬盘中删除的文件或文件夹",
+      "（B）从软盘中删除的文件或文件夹",
+      "（C）剪切掉的文档",
+      "（D）从光盘中删除的文件或文件夹"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，连续两次快速按下鼠标器左键的操作称为_____。",
+    "options": [
+      "（A）单击",
+      "（B）双击",
+      "（C）拖曳",
+      "（D）启动"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，利用鼠标器拖曳_____的操作，可缩放窗口大小。",
+    "options": [
+      "（A）控制框",
+      "（B）对话框",
+      "（C）滚动框",
+      "（D）边框"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的附件中提供的用于编辑纯文本文件的程序是____。",
+    "options": [
+      "（A）写字板",
+      "（B）画图",
+      "（C）计算器",
+      "（D）记事本"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，将某一程序项移动到一打开的文件夹中，应____。",
+    "options": [
+      "（A）单击鼠标左键",
+      "（B）双击鼠标左键",
+      "（C）拖曳",
+      "（D）单击或双击鼠标右键"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，不能通过使用____的缩放方法将窗口放到最大。",
+    "options": [
+      "（A）控制按钮",
+      "（B）标题栏",
+      "（C）最大化按钮",
+      "（D）边框"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，快速按下并释放鼠标器左键的操作称为____。",
+    "options": [
+      "（A）单击",
+      "（B）双击",
+      "（C）拖曳",
+      "（D）启动"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，____颜色的变化可区分活动窗口和非活动窗口。",
+    "options": [
+      "（A）标题栏",
+      "（B）信息栏",
+      "（C）菜单栏",
+      "（D）工具栏"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 中可以设置、控制计算机硬件配置和修改显示属性的应用程序是____。",
+    "options": [
+      "（A）Word",
+      "（B）Excel",
+      "（C）资源管理器",
+      "（D）控制面板"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "把 Windows 的窗口和对话框作一比较，窗口可以移动和改变大小，而对话框____。",
+    "options": [
+      "（A）既不能移动，也不能改变大小",
+      "（B）仅可以移动，不能改变大小",
+      "（C）仅可以改变大小，不能移动",
+      "（D）既可移动，也能改变大小"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，允许同时打开____应用程序窗口。",
+    "options": [
+      "（A）一个",
+      "（B）两个",
+      "（C）多个",
+      "（D）十个"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，将中文输入方式切换到英文方式，应同时按____键。",
+    "options": [
+      "（A）Alt+空格",
+      "（B）Ctrl+空格",
+      "（C）Shift+空格",
+      "（D）Enter+空格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的“桌面”指的是____。",
+    "options": [
+      "（A）某个窗口",
+      "（B）整个屏幕",
+      "（C）某一个应用程序",
+      "（D）一个活动窗口"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 中，回收站是____。",
+    "options": [
+      "（A）内存中的一块区域",
+      "（B）硬盘上的一块区域",
+      "（C）软盘上的一块区域",
+      "（D）高速缓存中的一块区域"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，下列叙述正确的是________",
+    "options": [
+      "（A）在不同驱动器上，只要直接拖动鼠标即可复制文件",
+      "（B）在不同驱动器上，只要直接拖动鼠标即可移动文件",
+      "（C）如果“发送”到不同磁盘上，则“发送”操作等同于“移动”操作",
+      "（D）按下 Shift 键不放，用鼠标将选定的文件拖动到目标盘或目标文件夹中，可复制文件"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，要将某个文件从磁盘上物理删除，正确的操作是_______",
+    "options": [
+      "（A）在“我的电脑”窗口中选中该文件，按 Delete 键",
+      "（B）在“回收站”窗口中选中该文件，执行“撤销”命令",
+      "（C）在“我的电脑”窗口中选中该文件，按 Ctrl+X 组合键",
+      "（D）在“我的电脑”窗口中选中该文件，按 Shift+Delete 键"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 的休眠模式下，系统的状态是 的。",
+    "options": [
+      "（A）保存在 U 盘中",
+      "（B）保存在硬盘中",
+      "（C）保存在内存中",
+      "（D）不被保存"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在“开始”菜单“搜索”框中一经键入搜索项文本，被搜索对象的 中的任何文字与搜索项匹配不会被作为搜索结果显示。",
+    "options": [
+      "（A）标题",
+      "（B）内容",
+      "（C）属性",
+      "（D）图片"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 资源管理器中，当删除一个或一组目录时，该目录或该目录组下的______将被删除。",
+    "options": [
+      "（A）文件",
+      "（B）所有子目录",
+      "（C）所有子目录及其所有文件",
+      "（D）所有子目录下的所有文件（不含子目录）"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，选定某一文件夹，选择执行 “删除”命令，则_______。",
+    "options": [
+      "（A）只删除文件夹而不删除其内的程序项",
+      "（B）删除文件夹内的某一程序项",
+      "（C）删除文件夹内的所有程序项而不删除文件夹",
+      "（D）删除文件夹及其所有程序项"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，要选定多个连续的文件，错误的操作是_____",
+    "options": [
+      "（A）单击第一个文件，按下 Shift 键不放，再单击最后一个文件",
+      "（B）单击第一个文件，按下 Ctrl 键不放，再单击最后一个文件",
+      "（C）按下 Ctrl+A，当前文件夹中的全部文件被选中",
+      "（D）用鼠标在窗口中拖动，在画出的虚线框中的全部文件被选中"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，不同驱动器之间复制文件时可使用的鼠标操作是_____",
+    "options": [
+      "（A）Ctrl+P",
+      "（B）Ctrl+拖拽",
+      "（C）Ctrl+Shift+拖拽",
+      "（D）Shift+拖拽"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 下，用户________",
+    "options": [
+      "（A）最多只能打开一个应用程序窗口",
+      "（B）可以打开多个应用程序窗口和多个文档窗口",
+      "（C）最多只能打开一个应用程序窗口和一个文档窗口",
+      "（D）最多只能打开一个应用程序窗口，而文档窗口可以打开多个"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "为了保证 Windows 10 安装后能正常使用，采用的安装方法是________。",
+    "options": [
+      "（A）升级安装",
+      "（B）卸载安装",
+      "（C）覆盖安装",
+      "（D）全新安装"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的回收站是_____",
+    "options": [
+      "（A）存放被删除对象的文件夹",
+      "（B）内存中的一块区域",
+      "（C）高速缓存中的一部分",
+      "（D）软盘中的一块区域"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在Windows中，不属于控制面板操作的是____。",
+    "options": [
+      "（A）更改桌面背景",
+      "（B）添加新硬件",
+      "（C）造字",
+      "（D）调整鼠标的使用设置"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下关于 Windows 10 快捷方式的正确叙述是_____",
+    "options": [
+      "（A）不允许为快捷方式建立快捷方式",
+      "（B）一个对象可有多个快捷方式",
+      "（C）一个快捷方式可指向多个目标对象",
+      "（D）只有文件对象可建立快捷方式"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在为一新建文件命名时，下面列出的文件名合法的是________",
+    "options": [
+      "（A）myfile:docx",
+      "（B）myfile.docx",
+      "（C）my?file.exe",
+      "（D）my/file.docx"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于快捷方式，以下描述正确的是__________。",
+    "options": [
+      "（A）快捷方式是对应应用程序的快速链接",
+      "（B）快捷方式不是文件，无扩展名",
+      "（C）快捷方式文件名不可以重命名",
+      "（D）快捷方式是应用程序的副本"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中，将当前窗口的整个图像保存在剪贴板中，应使用的快捷键是____",
+    "options": [
+      "（A）Ctrl+PrintScreen",
+      "（B）Shift+PrintScreen",
+      "（C）Esc+PrintScreen",
+      "（D）Alt+PrintScreen"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，Alt+Tab 键的作用是_______",
+    "options": [
+      "（A）应用程序之间的切换",
+      "（B）打开“开始”按钮",
+      "（C）关闭应用程序",
+      "（D）打开应用程序的控制菜单"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中执行“粘贴”命令，所进行的操作是________",
+    "options": [
+      "（A）将先前选定的内容移动到目标位置",
+      "（B）将先前选定的内容复制到目标位置",
+      "（C）将剪贴板中的内容移动到目标位置",
+      "（D）将剪贴板中的内容复制到目标位置"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows的资源管理器中，文件夹图标左边符号+的含义是________。",
+    "options": [
+      "（A）此文件夹中的子文件夹被隐藏",
+      "（B）备份文件夹的标记",
+      "（C）此文件夹是被压缩的文件夹",
+      "（D）系统文件夹的标记"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，为了显示“显示器属性”对话框以进行显示器的设置，下列操作中，正确的是________",
+    "options": [
+      "（A）用鼠标右键单击“任务栏”空白处，在弹出的快捷菜单中选择“属性”项",
+      "（B）用鼠标右键单击桌面空白处，在弹出的快捷菜单中选择“属性”项",
+      "（C）用鼠标右键单击“我的电脑”窗口空白处，在弹出的快捷菜单中选择“属性”项",
+      "（D）用鼠标右键单击“资源管理器”窗口空白处，在弹出的快捷菜单中选择“属性”项"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Windows 10 中的库，以下描述正确的是__________。",
+    "options": [
+      "（A）在 Windows 10 中使用库来组织和访问文件，这些文件与存储的位置无关",
+      "（B）库中的文件夹不容许删除",
+      "（C）从库中删除文件夹时，该文件夹原始位置中的文件夹及其内容也随即被删除",
+      "（D）不可以创建新库"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 提供的用户界面是_____",
+    "options": [
+      "（A）交互式的问答界面",
+      "（B）交互式的图形界面",
+      "（C）交互式的字符界面",
+      "（D）显示器界面"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，把打开且正在前台运行的窗口称为____",
+    "options": [
+      "（A）活动窗口",
+      "（B）对话框",
+      "（C）程序窗口",
+      "（D）文档窗口"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，关于删除一个对象的叙述，正确的是_______",
+    "options": [
+      "（A）如果删除的是文件夹，只是删除文件夹，文件夹中的文件不会删除",
+      "（B）直接将要删除的对象拖动到回收站图标上",
+      "（C）一次删除操作只能删除一个对象",
+      "（D）如果要删除的对象在 U 盘上，删除后该对象还可以通过回收站恢复"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 的某些菜单项后面带有省略号“...”，表示________",
+    "options": [
+      "（A）选择该菜单项后，会弹出下一级菜单",
+      "（B）在当前状态下，该菜单不能使用",
+      "（C）选择该菜单项后，会弹出相应的对话框",
+      "（D）在当前状态下，该菜单可以使用"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "一般情况下，文件的类型可以根据________来识别。",
+    "options": [
+      "（A）文件的大小",
+      "（B）文件的用途",
+      "（C）文件的扩展名",
+      "（D）文件的存放位置"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，________不是可选用的桌面上的窗口排列形式之一。",
+    "options": [
+      "（A）层叠",
+      "（B）透明显示",
+      "（C）堆叠显示",
+      "（D）并排显示"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "通常情况下，在中文 Windows 10 中，对中英文输入方式切换的按键是_____",
+    "options": [
+      "（A）Ctrl+Shift",
+      "（B）Shift+空格",
+      "（C）Alt+Esc",
+      "（D）Ctrl+空格"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中的资源管理器右窗格中，如果需要选定多个非连续排列的文件，应按组合键_______",
+    "options": [
+      "（A）Shift+单击要选定的文件对象",
+      "（B）Ctrl+双击要选定的文件对象",
+      "（C）Ctrl+单击要选定的文件对象",
+      "（D）Alt+单击要选定的文件对象"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，在已打开的多个窗口间进行切换，需使用按键_______",
+    "options": [
+      "（A）Alt+Tab",
+      "（B）Esc",
+      "（C）Ctrl+Tab",
+      "（D）Tab"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，剪切操作、复制操作、粘贴操作都涉及到的对象是____",
+    "options": [
+      "（A）文件夹",
+      "（B）回收站",
+      "（C）文件",
+      "（D）剪贴板"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，在“记事本”中保存的文件，系统默认的文件扩展名是__",
+    "options": [
+      "（A）.BMP",
+      "（B）.JPG",
+      "（C）.TXT",
+      "（D）.DOC"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，为了显示“显示器属性”对话框以进行显示器的设置，下列操作中，正确的是_____",
+    "options": [
+      "（A）用鼠标右键单击“资源管理器”窗口空白处，在弹出的快捷菜单中选择“属性”项",
+      "（B）用鼠标右键单击“我的电脑”窗口空白处，在弹出的快捷菜单中选择“属性”项",
+      "（C）用鼠标右键单击桌面空白处，在弹出的快捷菜单中选择“属性”项",
+      "（D）用鼠标右键单击“任务栏”空白处，在弹出的快捷菜单中选择“属性”项"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "结束中文 Windows 10 操作时，______的说法是错误的。",
+    "options": [
+      "（A）可以直接关闭电源",
+      "（B）可以在“开始”按钮中的“关闭系统”，选“关闭计算机”",
+      "（C）可以在“开始”按钮中的“关闭系统”，选“重新启动计算机”",
+      "（D）可以在“开始”按钮中的“关闭系统”，选“将计算机转入睡眠状态”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "鼠标一般有 2～3 个键，在 Windows 10 的操作中只用_______。",
+    "options": [
+      "（A）左键和中键",
+      "（B）右键和中键",
+      "（C）全部",
+      "（D）左键和右键"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "将鼠标指针移至窗口的______上拖曳，即可移动窗口。",
+    "options": [
+      "（A）格式化栏",
+      "（B）工具栏",
+      "（C）标题栏",
+      "（D）状态栏"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "改变窗口的大小可通过______来实现。",
+    "options": [
+      "（A）点击窗口控制框",
+      "（B）鼠标指针移至窗口边框或角上拖曳双向箭头光标",
+      "（C）点击状态栏",
+      "（D）移动滚动条的上、下箭头或滑块"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "命令项的右边带有朝右实心三角的命令，表示该命令项______。",
+    "options": [
+      "（A）有若干个子命令",
+      "（B）当前无效",
+      "（C）已选中",
+      "（D）会弹出对话框"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "对话框中有\"⊙\"的选项表示______。",
+    "options": [
+      "（A）选项卡",
+      "（B）复选框",
+      "（C）单选框",
+      "（D）命令按钮"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "对话框用于显示或输入对话信息，选择菜单中带_______命令时即出现。",
+    "options": [
+      "（A）右边带省略号",
+      "（B）右边带朝右箭头",
+      "（C）左边带黑圆点",
+      "（D）右边带组合键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "对话框的组成中不包含______。",
+    "options": [
+      "（A）选项卡，命令按钮",
+      "（B）滑竿、增量按钮",
+      "（C）单选钮，复选框、列表框、文本框",
+      "（D）菜单条"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关文件的阐述，______是错的。",
+    "options": [
+      "（A）文件是一组信息的集合。",
+      "（B）文件是一组字符的集合",
+      "（C）文件通常指应用程序、文档等",
+      "（D）文件可存于文件夹中"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关文件名的组成______是错误的。",
+    "options": [
+      "（A）文件名由名字和扩展名组成",
+      "（B）文件名的名字和扩展名之间用“.”号隔开",
+      "（C）扩展名说明了文件的类型",
+      "（D）Windows 10 文件名最长可由 256 个字符组成"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "中文 Windows 可以给文件取长达 个字符的名字，从而使文件名看起来一目了然。",
+    "options": [
+      "（A）8",
+      "（B）64",
+      "（C）255",
+      "（D）256"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中要看清文件夹的层次应打开______。",
+    "options": [
+      "（A）我的电脑",
+      "（B）资源管理器",
+      "（C）回收站",
+      "（D）启动"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "资源管理器中所显示的文件夹左边带有加框的“+”表示______。",
+    "options": [
+      "（A）文件夹下有一个文件",
+      "（B）文件夹下有多个文件",
+      "（C）文件夹下只有一个子文件",
+      "（D）文件夹下有一个甚至多个子文件夹"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中要同时选定不相邻的多个文件，需使用______键。",
+    "options": [
+      "（A）Shift",
+      "（B）Ctrl",
+      "（C）Alt",
+      "（D）F8"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中要同时选定相邻的多个文件，需使用______键。",
+    "options": [
+      "（A）Tab",
+      "（B）F4",
+      "（C）Shift",
+      "（D）Alt"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "选中要删除的文件，然后按______键，即可删除文件。",
+    "options": [
+      "（A）Alt",
+      "（B）Ctrl",
+      "（C）Shift",
+      "（D）Delete"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在同一驱动器下复制文件，用鼠标将所要复制的文件拖动到目标文件夹的同时，______。",
+    "options": [
+      "（A）还要按下 Ctrl 键",
+      "（B）还要按下 Shift 键",
+      "（C）还要按下 Alt 键",
+      "（D）不需按下任何键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 桌面上有多个图标，图标左下角有一个小箭头的图标是___图标。",
+    "options": [
+      "（A）程序组",
+      "（B）程序项",
+      "（C）文件夹",
+      "（D）快捷方式"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "任务栏是 Windows 10 的重要特征，下述______的描述是错的。",
+    "options": [
+      "（A）任务栏通常出现在屏幕底部",
+      "（B）任务栏中可显示“输入法”图标",
+      "（C）任务栏中可显示“时钟”指示器",
+      "（D）任务栏中显示“启动”按钮"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，运行应用程序的方法不正确的是______。",
+    "options": [
+      "（A）双击桌面上对应的应用程序图标",
+      "（B）单击\"开始\"按钮，选择“运行”，然后只输入对应的文件名，再单击“确定”",
+      "（C）单击\"开始\"按钮，选择“运行”，输入对应的文件标识符，再单击“确定”",
+      "（D）在资源管理器中找到并双击要运行的程序文件图标"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "当用户运行了多个应用程序之后，这些应用程序将以按钮形式出现在______。",
+    "options": [
+      "（A）任务栏",
+      "（B）工具栏",
+      "（C）状态栏",
+      "（D）格式化栏"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，各种中文输入方法的切换应按______键。",
+    "options": [
+      "（A）Ctrl+空格",
+      "（B）Shift+空格",
+      "（C）Ctrl+Shift",
+      "（D）Alt+Shift"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "若将一个应用程序添加到______文件夹中，以后启动 Windows 10，该程序即会自动启动。",
+    "options": [
+      "（A）控制面板",
+      "（B）启动",
+      "（C）文档",
+      "（D）程序"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "如用户在一段时间内______，中文 Windows 10 将启动执行屏幕保护程序。",
+    "options": [
+      "（A）没有按键",
+      "（B）没有移动鼠标器",
+      "（C）既没有按键，也没有移动鼠标器",
+      "（D）没有使用打印机"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "若没有安装过打印机，则“打印机”窗口中______。",
+    "options": [
+      "（A）有建议设置的打印机图标",
+      "（B）有一个系统默认打印机图标",
+      "（C）没有任何图标",
+      "（D）只有“添加打印机”图标"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中，默认打印机的数量最多可以是________个。",
+    "options": [
+      "（A）1",
+      "（B）2",
+      "（C）3",
+      "（D）4"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "选中窗口的菜单命令项右边带有省略号 3 点（…）的命令，将会出现 。",
+    "options": [
+      "（A）若干个子命令",
+      "（B）当前无效",
+      "（C）另一个文档窗口",
+      "（D）对话框"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "对话框中“ ”表示 。",
+    "options": [
+      "（A）选项卡",
+      "（B）复选框",
+      "（C）单选框",
+      "（D）命令按钮"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 中退出应用程序的方法，错误的是 。",
+    "options": [
+      "（A）双击控制菜单框",
+      "（B）单击“关闭”按钮",
+      "（C）单击“最小化”按钮",
+      "（D）按 Alt+F4 键"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "用键盘操作方法来退出应用程序，可按 键。",
+    "options": [
+      "（A）Ctrl+F3",
+      "（B）Ctrl+F4",
+      "（C）Alt+F3",
+      "（D）Alt+F4"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 中运行一个程序图标，是对鼠标 。",
+    "options": [
+      "（A）单击左键",
+      "（B）双击左键",
+      "（C）点住左键拖曳",
+      "（D）点住右键拖曳"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "应用程序窗口缩成图标后， 是不正确的论述。",
+    "options": [
+      "（A）应用程序停止运行",
+      "（B）应用程序继续运行",
+      "（C）应用程序图标就放到了任务栏上",
+      "（D）单击该图标，窗口就还原了"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在对话框的各组成部件之间移动输入焦点，可以按 键。",
+    "options": [
+      "（A）Tab 或 Ctrl+Tab",
+      "（B）Tab 或 Shift+Tab",
+      "（C）回车或 Alt+回车",
+      "（D）回车或 Ctrl+回车"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10 中有设置、控制计算机硬件配置和修改桌面布局的应用程序是 。",
+    "options": [
+      "（A）Word",
+      "（B）Excel",
+      "（C）文件管理器",
+      "（D）控制面板"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机每个二进制数据位只能存放一个数据（0 或 1），则 8 个二进制位组成的数转换成十进制整数后，不可能是 。",
+    "options": [
+      "（A）0",
+      "（B）255",
+      "（C）256",
+      "（D）127"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "资源管理器的列表内容“按名称”排序，就是按 排序。",
+    "options": [
+      "（A）文件主名",
+      "（B）文件扩展名",
+      "（C）文件名的字符个数",
+      "（D）大小"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "资源管理器的列表内容“按类型”排序，就是按 排序。",
+    "options": [
+      "（A）文件主名",
+      "（B）文件扩展名",
+      "（C）文件名的字符个数",
+      "（D）大小"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中，选定文件夹内容框中的所有文件的操作，错误的是 。",
+    "options": [
+      "（A）在“编辑”菜单中选“全选”",
+      "（B）选中第一个，按住 Shift 键不放，选中最后一个",
+      "（C）从第一个文件拖曳到最后一个文件",
+      "（D）按 Alt+A 键"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中打开文件的操作，错误的是 。",
+    "options": [
+      "（A）双击该文件",
+      "（B）在“编辑”菜单中选“新建”命令",
+      "（C）选中该文件，然后按回车键",
+      "（D）右键单击该文件，在快捷菜单中选“打开”命令"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中删除文件的操作，错误的是选中文件后， 。",
+    "options": [
+      "（A）在“工具”菜单中选“删除”命令",
+      "（B）按 Delete 键",
+      "（C）在选中的文件中单击右键，选“删除”命令",
+      "（D）在“文件”菜单中选“删除”命令"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在资源管理器中用 Delete 键删除文件后，错误的说法是 。",
+    "options": [
+      "（A）文件放到“回收站”中了",
+      "（B）文件从磁盘中真正删除了，无法恢复",
+      "（C）用户可以从“回收站”中恢复被删除的文件",
+      "（D）一旦“回收站”被清空，被删除的文件就无法恢复了"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "文件类型的注册是指将某种类型的文件与某个 之间建立关联。",
+    "options": [
+      "（A）文档",
+      "（B）窗口",
+      "（C）对话框",
+      "（D）应用程序"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "用户 对一个已经注册的文件类型更改与其关联的应用程序。",
+    "options": [
+      "（A）不可以",
+      "（B）有时不可以",
+      "（C）一定不可以",
+      "（D）可以"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "__________不属于 Windows 10 自带的 11 种实用桌面小工具。",
+    "options": [
+      "（A）日历",
+      "（B）时钟",
+      "（C）记事本",
+      "（D）货币"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Windows 10“任务栏”的组成中，不包括__________。",
+    "options": [
+      "（A）标题栏",
+      "（B）通知区域",
+      "（C）“显示桌面”按钮",
+      "（D）任务栏按钮区"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "可以通过 Windows“开始”菜单的__________列表来寻找已安装的应用程序。",
+    "options": [
+      "（A）“所有程序”",
+      "（B）“应用程序”",
+      "（C）“安装程序”",
+      "（D）“帮助和支持”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Windows 10 中，将整个屏幕保存在剪贴板中，应使用的快捷键是__________。",
+    "options": [
+      "（A）<Ctrl>+<PrintScreen>",
+      "（B）<Shift>+<PrintScreen>",
+      "（C）<PrintScreen>",
+      "（D）<Alt>+<PrintScreen>"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "打开一个 Word 文档通常是指_____",
+    "options": [
+      "（A）为指定文件新建一个空文档窗口",
+      "（B）把文档的内容从内存读入并显示",
+      "（C）把文档的内容从磁盘调入内存并显示",
+      "（D）从打印机打印文档内容"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果 WORD 文档中有一段文字不允许别人修改，可以通过_______。",
+    "options": [
+      "（A）格式设置限制",
+      "（B）编辑限制",
+      "（C）设置文件修改密码",
+      "（D）以上都是"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下哪一个选项卡不是 Word 2016 的标准选项卡。",
+    "options": [
+      "（A）审阅",
+      "（B）引用",
+      "（C）开发工具",
+      "（D）视图"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态，执行快捷键“Ctrl+A”命令后",
+    "options": [
+      "（A）整个文档被选中",
+      "（B）插入点所在的段落被选中",
+      "（C）插入点所在的行被选中",
+      "（D）插入点至文档的首部被选中"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态下，进行“粘贴”操作的组合键是_____",
+    "options": [
+      "（A）Ctrl+X",
+      "（B）Ctrl+C",
+      "（C）Ctrl+V",
+      "（D）Ctrl+A"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态，执行编辑组中的“复制”命令后",
+    "options": [
+      "（A）被选择的内容被复制到插入点处",
+      "（B）被选择的内容被复制到剪贴板",
+      "（C）插入点所在的段落内容被复制到剪贴板",
+      "（D）插入点所在的段落内容被复制到剪贴板"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word“制表符”的描述中，正确的描述是_____",
+    "options": [
+      "（A）“制表符”的作用就是插入表格",
+      "（B）用户利用“制表符”可以进行不同视图方式的切换",
+      "（C）“制表符”的制表位可以由用户改变",
+      "（D）利用“制表符”，用户可以将 Word 文档转换成 Excel 表"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，查找操作______。",
+    "options": [
+      "（A）可以无格式或带格式进行，还可以查找一些特殊的非打印字符",
+      "（B）只能带格式进行，还可以查找一些特殊的非打印字符",
+      "（C）搜索范围只能是整篇文档",
+      "（D）可以无格式或带格式进行，但不能用任何统配符进行查找"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 中关于“项目符号”的正确说法是_____",
+    "options": [
+      "（A）在文本框中不能使用项目符号",
+      "（B）只能使用默认的项目符号",
+      "（C）不能改变项目符号的字号大小",
+      "（D）用户可以自定义项目符号"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态，打开文档 ABC，修改后另存为 ABD，则文档_____。",
+    "options": [
+      "（A）ABC 是当前文档",
+      "（B）ABD 是当前文档",
+      "（C）ABC 和 ABD 是当前文档",
+      "（D）ABC 和 ABD 均不是当前文档"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 文档中插入数学公式，应使用“插入”选项卡的",
+    "options": [
+      "（A）“公式”命令",
+      "（B）“对象”命令",
+      "（C）“符号”命令",
+      "（D）“特殊符号”命令"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 表格的“自动调整”功能，说法正确的是_____",
+    "options": [
+      "（A）可以根据表格内文本的内容自动调整",
+      "（B）可以根据页面大小自动调整",
+      "（C）可以根据模板内容自动调整",
+      "（D）可以根据打印机型号自动调整"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word“页面设置”对话框中，完成横向打印设置的选项卡是_____",
+    "options": [
+      "（A）页边距",
+      "（B）纸型",
+      "（C）纸张来源",
+      "（D）版式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，段落格式设置不包括________。",
+    "options": [
+      "（A）页面设置",
+      "（B）缩进和间距",
+      "（C）制表位",
+      "（D）项目符号和编号"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 表格的表述，正确的是_____",
+    "options": [
+      "（A）选定表格后，按下 Delete 键，可以删除表格及其内容",
+      "（B）选定表格后，单击“剪切”按钮，不能删除表格及其内容",
+      "（C）选定表格后，单击“表格”菜单中的“删除”命令，可以删除表格及其内容",
+      "（D）只能删除表格的行或列，不能删除表格中的某一个单元格"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "word 窗口最上方“快捷访问工具栏”中的“撤销”按钮 的功能是 。",
+    "options": [
+      "（A）撤销上次操作",
+      "（B）加粗",
+      "（C）设置下划线",
+      "（D）改变所选内容的字体颜色"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，不能利用标尺进行的操作是_____",
+    "options": [
+      "（A）设置页边距",
+      "（B）设置段落缩进",
+      "（C）设置段落对齐方式",
+      "（D）设置制表位"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，格式刷是常用的快速设置格式工具，选定有格式的文本后，双击格式刷按钮，可以复制格式________次。",
+    "options": [
+      "（A）2",
+      "（B）1",
+      "（C）0",
+      "（D）多"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 是 。",
+    "options": [
+      "（A）字处理软件",
+      "（B）系统软件",
+      "（C）硬件",
+      "（D）操作系统"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 中的超级链接可以连接_____",
+    "options": [
+      "（A）另外的 Word 文件",
+      "（B）C 都可以",
+      "（C）一个可执行程序",
+      "（D）A、"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，当前插入点在表格某行的最后一个单元格内，按 Enter 键后",
+    "options": [
+      "（A）插入点所在的行增高",
+      "（B）插入点所在的列加宽",
+      "（C）在插入点下一行增加一行",
+      "（D）将插入点移到下一个单元格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，插入的图片与文字之间的环绕方式不包括_____",
+    "options": [
+      "（A）上下环绕",
+      "（B）左右环绕",
+      "（C）四周环绕",
+      "（D）紧密环绕"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 的基本功能不包括________。",
+    "options": [
+      "（A）数据分析",
+      "（B）格式编辑",
+      "（C）排版审校",
+      "（D）文字录入"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，页眉和页脚可以放在_____",
+    "options": [
+      "（A）页面顶部和底部",
+      "（B）页面中部",
+      "（C）页面左部和右部",
+      "（D）上述页面位置都可以"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，向 Word 2016 文档中插入 Excel 表时，首先在 Excel 中复制，然后在 Word2016 中用开始选项卡“编辑”组中的命令。",
+    "options": [
+      "（A）复制",
+      "（B）剪切",
+      "（C）粘贴",
+      "（D）替换"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，使用“另存为”命令，不能________。",
+    "options": [
+      "（A）为文档命名",
+      "（B）改变文档的保存位置",
+      "（C）改变文档的类型",
+      "（D）直接改变文档的大小"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 中，关于剪切工具和 Delete 键的正确说法是_____",
+    "options": [
+      "（A）Delete 键是剪切工具的快捷键",
+      "（B）被剪切的文本被存入“剪切板”",
+      "（C）被 Delete 键删除的内容被存入“剪切板”",
+      "（D）被 Delete 键删除的文本可粘贴任意多次"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 2016 页码设置，下列表述错误的是_____",
+    "options": [
+      "（A）页码可以被插入到页眉脚区域",
+      "（B）页码可以被插入到左右页边距",
+      "（C）如果希望首页和其他页页码不同，必须设置“首页不同”",
+      "（D）可以自定义页码并添加到构建基块管理器中的的页码库中"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "当前编辑的 Word 文件名为“报告”，修改后另存为“总结”，则________",
+    "options": [
+      "（A）“报告”是当前文档",
+      "（B）“总结”是当前文档",
+      "（C）“报告”和“总结”都被打开",
+      "（D）“报告”改为临时文件"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 文档中将光标移到本行行首的快捷键____。",
+    "options": [
+      "（A）PageUp",
+      "（B）Ctrl+Home",
+      "（C）Home",
+      "（D）End"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 的插入“形状”按钮中选定矩形工具，按住____按钮可绘制正方形。",
+    "options": [
+      "（A）Ctrl",
+      "（B）Alt",
+      "（C）Shift",
+      "（D）Enter"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中按____键可将光标快速移至文档的开端。",
+    "options": [
+      "（A）Ctrl+Home",
+      "（B）Ctrl+End",
+      "（C）Ctrl+Shift+End",
+      "（D）Ctrl+Shift+Home"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "当用户输入错误的或系统不能识别的文字时，Word 2016 会在文字下面以___标注。",
+    "options": [
+      "（A）红色直线",
+      "（B）红色波浪线",
+      "（C）绿色直线",
+      "（D）绿色波浪线"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 word 窗口的右上角，可以同时显示的按钮是 。",
+    "options": [
+      "（A）最小化、还原和最大化",
+      "（B）还原、最大化和关闭",
+      "（C）最小化、最大化和关闭",
+      "（D）关闭和最大化"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中当用户需要选定任意数量的文本时，可以按下鼠标从所要选择的文本上拖过；另一种方法是在所要选择文本的起始处单击鼠标，然后按下____键，在所要选择文本的结尾处再次单击。",
+    "options": [
+      "（A）Shift",
+      "（B）Ctrl",
+      "（C）Alt",
+      "（D）Tab"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 中当用户在输入文字时，在____模式下，随着输入新的文字，后面原有的文字将会被覆盖。",
+    "options": [
+      "（A）插入",
+      "（B）改写",
+      "（C）自动更正",
+      "（D）断字"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 中按住____键的同时拖动选定的内容到新位置可以快速完成复制操作。",
+    "options": [
+      "（A）Ctrl",
+      "（B）Alt",
+      "（C）Shift",
+      "（D）Del"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 中的手动换行符是通过____产生的。",
+    "options": [
+      "（A）插入分页符",
+      "（B）插入分节符",
+      "（C）键入“Enter”",
+      "（D）按“Shift”+“Enter”"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 中，如果要选定文档中的某个段落，可将光标移到该段落的左侧，待光标形状改变后，再________",
+    "options": [
+      "（A）左键单击鼠标",
+      "（B）左键双击鼠标",
+      "（C）左键三击鼠标",
+      "（D）右键单击鼠标"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态，下列属于文字格式的是_______",
+    "options": [
+      "（A）段落缩进",
+      "（B）对齐方式",
+      "（C）行间距",
+      "（D）颜色"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 新建段落样式时，可以设置字体、段落、编号等多项样式属性，以下不属于样式属性的是",
+    "options": [
+      "（A）制表位",
+      "（B）语言",
+      "（C）文本框",
+      "（D）快捷键"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在Word 2016中，格式刷________。",
+    "options": [
+      "（A）只能复制图形格式",
+      "（B）只能复制字体格式",
+      "（C）只能复制段落格式",
+      "（D）可以复制选定对象的任何格式"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "当前 Word 文档中的文字使用了“四号”、“五号”、“16”磅、“18”磅四种字号，说法正确的是_______",
+    "options": [
+      "（A）“16”磅字大于“18”磅字",
+      "（B）字号大小不一样，字体将不同",
+      "（C）“四号”字大于“五号”字",
+      "（D）“四号”字小于“五号”字"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 关于“艺术字”的说法中，正确的是_______",
+    "options": [
+      "（A）“艺术字”是被作为图形对象来处理的",
+      "（B）添加“艺术字”需要执行插入“文本框”命令",
+      "（C）选中的文本，通过“字体”对话框可直接设置为“艺术字”",
+      "（D）设置好的“艺术字”只能改变其大小，其字体、字形不能再被改变"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，对文档段落设置分栏的说明正确的是______",
+    "options": [
+      "（A）在栏之间不能设置分割线",
+      "（B）不仅能将段落分为一栏、二栏和三栏，还能分为四栏",
+      "（C）栏的宽度是系统已经确定的，用户不能设置栏的宽度",
+      "（D）栏的间距是系统已经确定的，用户不能设置栏的间距"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 中，如果要打印一篇多页文档中的第 5、9、12 至 20 页，在“打印”对话框中输入下列页码范围，格式正确的是_______",
+    "options": [
+      "（A）5 9 12 to 20",
+      "（B）5 9 12 至 20",
+      "（C）5:9:12+20",
+      "（D）5, 9, 12 - 20"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 中当前编辑的文件为 A1.DOCX，将该文件另存为 A2.DOCX 时，则____",
+    "options": [
+      "（A）A2.DOCX 成为当前文档",
+      "（B）A1.DOCX 成为当前文件",
+      "（C）关闭两个文件窗口",
+      "（D）两个文档均被打开"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 中，希望将文档中一段文字从目前位置移到另外一处，第一步操作应当是_______",
+    "options": [
+      "（A）剪切",
+      "（B）粘贴",
+      "（C）选取",
+      "（D）复制"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，当 “粘贴”按钮呈灰色而不能使用时，表示_______",
+    "options": [
+      "（A）在文档中已有选定内容",
+      "（B）剪贴板中没有内容",
+      "（C）在文档中没有选定内容",
+      "（D）剪贴板中已有内容"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，“开始”选项卡“字体”组中“B”图形按钮的作用是：使选定对象________。",
+    "options": [
+      "（A）变为斜体",
+      "（B）变为粗体",
+      "（C）加下划线单线",
+      "（D）加下划波浪线"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word“格式刷”的功能，下列描述中正确的是_______",
+    "options": [
+      "（A）既可以复制文档格式，也可以复制文档内容",
+      "（B）既可以复制文件的大小和字型，也可以复制段落间的距离",
+      "（C）只能复制文件的大小和字型",
+      "（D）只能复制段落间的距离"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 文档中对插入的图片进行编辑，说法正确的是_______",
+    "options": [
+      "（A）可以为图片添加背景和边框",
+      "（B）可以利用“组合”命令改变图片的叠放次序",
+      "（C）可以将图片中的文字转换为文本",
+      "（D）利用图片缩放可以改变图片的灰度、亮度"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 的编辑状态，要删除光标右边的文字，按哪一个键______",
+    "options": [
+      "（A）Delete",
+      "（B）Ctrl",
+      "（C）BackSpace",
+      "（D）Alt"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于样式、样式库和样式集，以下表述正确的是",
+    "options": [
+      "（A）快速样式库中显示的是用户最为常用的样式",
+      "（B）用户无法自行添加样式到快速样式库",
+      "（C）多个样式库组成了样式集",
+      "（D）样式集中的样式存储在模板中"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "若文档被分为多个节，并在“页面设置”的版式选项卡中将页眉和页脚设置为奇偶页不同，则以下关于页眉和页脚说法正确的是",
+    "options": [
+      "（A）文档中所有奇偶页的页眉必然都不相同",
+      "（B）文档中所有奇偶页的页眉可以都不相同",
+      "（C）每个节中奇数页页眉和偶数页页眉必然不相同",
+      "（D）每个节的奇数页页眉和偶数页页眉可以不相同"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 2016 选定文本的操作，下列叙述______不正确。",
+    "options": [
+      "（A）在文本选定区单击可选定一行",
+      "（B）任何一块内容总能用拖曳的方法选中",
+      "（C）可选定两块不连续的内容",
+      "（D）选择按钮组中的“全选”命令可选定全文"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，要选定整个文档，错误的操作是_______。",
+    "options": [
+      "（A）按 CTRL＋A",
+      "（B）在选定区中三击鼠标",
+      "（C）选择按钮组中的“全选”命令",
+      "（D）双击 Word 程序窗口的标题"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，以下说法______是错误的。",
+    "options": [
+      "（A）“剪切”功能将选取的对象从文档中删除，并放入剪贴板",
+      "（B）“粘贴”功能将剪贴板上的内容粘贴到文档中插入点所在位置",
+      "（C）“复制”功能不是通过剪贴板来实现的",
+      "（D）剪贴板是内存中的一个临时存放信息（如文字、图像等）的特殊区域"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，“文件”选项卡中“另存为”命令的功能是______。",
+    "options": [
+      "（A）与\"保存\"命令相同",
+      "（B）只能以老文件名保存",
+      "（C）只能以新文件名保存",
+      "（D）既能以老文件名保存也能以新文件名保存"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，自动生成的目录可以通过按_________键同时单击对应标题快速定位到需要查询的内容。",
+    "options": [
+      "（A）〈Ctrl〉",
+      "（B）〈Tab〉",
+      "（C）〈Shift〉",
+      "（D）〈Alt〉"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，段落标记是在文本输入时按下_______键形成的。",
+    "options": [
+      "（A）Shift",
+      "（B）Enter",
+      "（C）Alt",
+      "（D）Esc"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 中，调整段落首行缩进的最简单方法是选定段落后______。",
+    "options": [
+      "（A）单击段落组中的“增加缩进量”按钮",
+      "（B）拖动标尺上的“首行缩进”标志",
+      "（C）拖动标尺上的“左段落缩进”标志",
+      "（D）同时拖动“左段落缩进”和“右段落缩进”标志"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 的段落对齐方式中没有______。",
+    "options": [
+      "（A）两端对齐",
+      "（B）集中对齐",
+      "（C）分散对齐",
+      "（D）居中"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "对于 Word 2016 分栏操作，正确的说法是______。",
+    "options": [
+      "（A）一个节中可以包含多种分栏格式",
+      "（B）在普通视图下也能显示分栏效果",
+      "（C）对选定内容分栏，则该内容为一节",
+      "（D）直接执行分栏操作，则将整个文档分栏"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果在 Word 2016 中建立了分栏，要查看分栏效果，可以选择______视图。",
+    "options": [
+      "（A）大纲",
+      "（B）阅读版式",
+      "（C）Web 版式",
+      "（D）页面"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，下列______格式的效果必须采用页面视图才会在屏幕上正常显示。",
+    "options": [
+      "（A）字体",
+      "（B）段落",
+      "（C）边框和底纹",
+      "（D）分栏"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于在 Word 2016 文档中插入图片，______是错误的。",
+    "options": [
+      "（A）在文档中插入图形，可使版面生动活泼，图文并茂。",
+      "（B）插入的图片可以嵌入在文字字符中间",
+      "（C）插入的图片可以浮在文字上方",
+      "（D）插入的图片既不可以嵌入文字字符中间，也不可以浮在文字上方"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于导航窗格，以下表述错误的是",
+    "options": [
+      "（A）能够游览文档中的标题",
+      "（B）能够浏览文档中的各个页面",
+      "（C）能够浏览文档中的关键文字和词",
+      "（D）能够浏览文档中的脚注、尾注、题注等"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在同一个页面中，如果希望页面上半部分为一栏，后半部分分为两栏，应插入的分隔符号为",
+    "options": [
+      "（A）分页符",
+      "（B）分栏符",
+      "（C）分节符（连续）",
+      "（D）分节符（奇数页）"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，设定了制表位后，只需要按__________键，就可以将光标移到下一个制表位上。",
+    "options": [
+      "（A）〈Ctrl〉",
+      "（B）〈Shift〉",
+      "（C）〈Tab〉",
+      "（D）〈Alt〉"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，对同一文档中的文字或图形进行移动时，_______将选定的文字或图形拖曳到目标位置后释放。",
+    "options": [
+      "（A）不按任何键",
+      "（B）按住 Shift 键",
+      "（C）按住 Alt 键",
+      "（D）按住 Ctrl 键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于编辑 Word 2016 的页眉页脚，下列叙述_______不正确。",
+    "options": [
+      "（A）文档内容和页眉页脚可以在同一窗口编辑",
+      "（B）文档内容和页眉页脚一起打印",
+      "（C）页眉页脚编辑时不能编辑文档内容",
+      "（D）页眉页脚中也可以插入图形"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中天对表格进行拆分与合并操作时，______。",
+    "options": [
+      "（A）一个表格可拆分成上下两个或左右两个",
+      "（B）对表格单元格的合并，可以左右或上下进行",
+      "（C）对表格单元格的拆分要上下进行，合并要左右进行",
+      "（D）一个表格只能拆分成左右两个"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，将插入点定位到要分页的位置，然后按下 Ctrl+Enter 键，就插入了一个硬分页符，以下______是错误的。",
+    "options": [
+      "（A）可以移动该分页符",
+      "（B）可以复制该分页符",
+      "（C）可以删除该分页符",
+      "（D）不能删除该分页符"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 的“打印”对话框中，以下叙述______是错误的。",
+    "options": [
+      "（A）可以设置打印文档份数",
+      "（B）不可以设置打印文档中的某几页",
+      "（C）可以设置打印当前页",
+      "（D）可以设置打印整个文档"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列关于 Word 2016 段落符的叙述______不正确。",
+    "options": [
+      "（A）可以显示但不会打印",
+      "（B）一定在屏幕显示",
+      "（C）删除后则前后两段合并",
+      "（D）不打回车不会产生"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 2016 的打印快捷按钮和文件选项卡的打印命令，下列叙述______不正确。",
+    "options": [
+      "（A）它们都可用于打印文档内容",
+      "（B）它们的作用有所不同",
+      "（C）前者只能打印一份，后者可以打印多份",
+      "（D）它们都能打印多份"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，下列快捷键的组合错误的是 。",
+    "options": [
+      "（A）剪切：Ctrl+X",
+      "（B）粘贴：Ctrl+C",
+      "（C）保存：Ctrl+S",
+      "（D）打开：Ctrl+O"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 下列叙述 不正确。",
+    "options": [
+      "（A）“新建”快捷按钮和文件选型卡的“新建”命令都能建立新文档。",
+      "（B）上述两个操作的作用完全相同。",
+      "（C）文件选项卡的“新建”命令有模板对话。",
+      "（D）“新建”工具按钮操作没有模板对话。"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 关于字号大小的顺序，下列 正确。",
+    "options": [
+      "（A）五号>四号>三号",
+      "（B）五号<四号<三号",
+      "（C）五号<三号<四号",
+      "（D）四号>五号>三号"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列类型 的文件不能作为图片插入到 Word 2016 的文档中。",
+    "options": [
+      "（A）BMP",
+      "（B）WMF",
+      "（C）JPG",
+      "（D）XLSX"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 对表格数据排序时，不能按照数据的 。",
+    "options": [
+      "（A）笔画多少",
+      "（B）数字大小",
+      "（C）字号大小",
+      "（D）拼音先后"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Word 2016 的分页符，下列叙述 不正确。",
+    "options": [
+      "（A）会根据纸张大小和页边距等自动分页",
+      "（B）内容增删时软分页符自动调整",
+      "（C）插入的硬分页符也随内容增删自动调整",
+      "（D）可以插入硬分页符"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在以下的 视图中，Word 2016 的标尺是不显示的。",
+    "options": [
+      "（A）页面",
+      "（B）草稿",
+      "（C）Web 版式",
+      "（D）大纲"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，下列 对象不可以实现图文混排。",
+    "options": [
+      "（A）浮动图片",
+      "（B）图文框",
+      "（C）文本框",
+      "（D）嵌入图片"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Word 2016 不可以对 中的文字改变文字方向。",
+    "options": [
+      "（A）表格单元格",
+      "（B）图文框",
+      "（C）文本框",
+      "（D）选中的几个字符"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，如果用户选中了某些内容，不小心被删除或替换，此时可用________操作还原到原先的状态。",
+    "options": [
+      "（A）替换",
+      "（B）粘贴",
+      "（C）撤消",
+      "（D）恢复"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中编辑文本时，要使插入状态变为改写状态，正确的操作是_____",
+    "options": [
+      "（A）单击状态栏中的“改写”按钮",
+      "（B）按一次 Delete 键",
+      "（C）按一次 Insert 键",
+      "（D）连续按两次 Insert 键"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，如果要调整段后间距，可使用“开始”选项卡__________组中的命令。",
+    "options": [
+      "（A）字体",
+      "（B）段落",
+      "（C）制表位",
+      "（D）样式"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，要把文档选定内容中所有空格快速删除，最有效的方法是使用__________命令。",
+    "options": [
+      "（A）复制",
+      "（B）替换",
+      "（C）改写",
+      "（D）粘贴"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Word 2016 中，可以通过在“__________”对话框的“高级”选项卡中调整字符间距与位置。",
+    "options": [
+      "（A）字体",
+      "（B）段落",
+      "（C）高级",
+      "（D）样式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 中，设置单元格数据倾斜的角度，应在“单元格格式”对话框中使用",
+    "options": [
+      "（A）“数字”选项卡",
+      "（B）“对齐”选项卡",
+      "（C）“字体”选项卡",
+      "（D）“边框”选项卡"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Excel 单元格，描述正确的是_____",
+    "options": [
+      "（A）单元格按照单元格所在的行和列的位置命名",
+      "（B）单元格按照单元格的宽度和高度命名",
+      "（C）用户不可以自己定义标识符命名单元格",
+      "（D）允许同时对多个单元格输入内容"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 工作表中，用鼠标指向单元格填充柄时，鼠标的指针将_____",
+    "options": [
+      "（A）不发生任何变化",
+      "（B）变为沙漏形状",
+      "（C）变为“十”字",
+      "（D）所指向的单元格变为虚线框"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 工作表中，正确的公式形式为_____",
+    "options": [
+      "（A）#VALUE!",
+      "（B）None",
+      "（C）#VALUE!",
+      "（D）None"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 中，运算公式的一般形式为_____",
+    "options": [
+      "（A）#NAME?",
+      "（B）：表达式",
+      "（C）>=表达式",
+      "（D）None"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 中，若单元格 A1 中的文字为“徐汇区”，单元格 B1 的公式为“=\"上海市\"&A1”，单元格 B1 的值是_____",
+    "options": [
+      "（A）True",
+      "（B）False",
+      "（C）上海市 A1",
+      "（D）上海市徐汇区"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "要在 Excel 2016 单元格中输入分数，正确的输入方法是_____",
+    "options": [
+      "（A）在数字前面加 0 和空格",
+      "（B）将数字用方括号括起来",
+      "（C）将数字用圆括号括起来",
+      "（D）在数字前加减号“-”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 中，在“单元格格式”对话框中不可以设置",
+    "options": [
+      "（A）字体",
+      "（B）边框",
+      "（C）行高",
+      "（D）对齐"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，输入数字字符的文本型数据（如身份证号码、邮政编码等）时，要在数字字符前加一个英文（西文）输入状态下的__________。",
+    "options": [
+      "（A）逗号",
+      "（B）分号",
+      "（C）单引号",
+      "（D）双引号"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，若要对某工作表重新命名，可以采用____。",
+    "options": [
+      "（A）单击工作表标签",
+      "（B）双击工作表标签",
+      "（C）单击表格标题行",
+      "（D）双击表格标题行"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 中的工作表是由行、列组成的表格，表中的每一格叫____。",
+    "options": [
+      "（A）窗口格",
+      "（B）子表格",
+      "（C）单元格",
+      "（D）工作格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中单元格地址是指____。",
+    "options": [
+      "（A）每一个单元格",
+      "（B）每一个单元格的大小",
+      "（C）单元格所在的工作表",
+      "（D）单元格在工作表中的位置"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中将单元格变为活动单元格的操作是____。",
+    "options": [
+      "（A）用鼠标单击该单元格",
+      "（B）在当前单元格内键入该目标单元格地址",
+      "（C）将鼠标指针指向该单元格",
+      "（D）没必要，因为每一个单元格都是活动的"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "移动到下一张工作表的组合键是____。",
+    "options": [
+      "（A）shift+Page Down",
+      "（B）ctrl+Page Down",
+      "（C）shift+End",
+      "（D）AIt+End"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "若在工作表中选取一组单元格，则其中活动单元格的数目是____。",
+    "options": [
+      "（A）一行单元格",
+      "（B）一个单元格",
+      "（C）一列单元格",
+      "（D）等于被选中的单元格数目"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 单元格内输入计算公式后按回车键，单元格内显示的是____。",
+    "options": [
+      "（A）计算公式",
+      "（B）公式的计算结果",
+      "（C）空白",
+      "（D）等号\"=\""
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 的单元格内输入日期时，年、月、日分隔符可以是____。",
+    "options": [
+      "（A）“/”或“-”",
+      "（B）“、”或“|”",
+      "（C）“/”或“\\”",
+      "（D）“\\”或“.”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "若在 Excel 的 A2 单元中输入“=8+2”，则显示结果为____。",
+    "options": [
+      "（A）10",
+      "（B）82",
+      "（C）10",
+      "（D）8+2"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "若在 Excel 的 A2 单元中输入“=16>=17”，则显示结果为____。",
+    "options": [
+      "（A）16<17",
+      "（B）True",
+      "（C）TRUE",
+      "（D）FALSE"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，利用填充柄可以将数据复制到相邻单元格中，若选择含有数值的左右相邻的两个单元格，左键拖动填充柄，则数据将以____填充。",
+    "options": [
+      "（A）等差数列",
+      "（B）等比数列",
+      "（C）左单元格数值",
+      "（D）右单元格数值"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在单元格中输入数字字符串 00080（邮政编码）时，应输入____。",
+    "options": [
+      "（A）80",
+      "（B）\"00080",
+      "（C）'00080",
+      "（D）00080'"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 工作表单元格区域 A1:B3 的数据如图所示，在 C1 单元格中输入公式，拖动 C1 的填充柄到C3，得到 C1、C2、C3 的数据如图所示。在 C1 中输入的公式可以是_____",
+    "options": [
+      "（A）#VALUE!",
+      "（B）#VALUE!",
+      "（C）None",
+      "（D）#VALUE!"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 工作表中，当单元格 B2 的值大于等于 60，则在单元格 C2 中写入“及格”，否则写入“不及格”，应在 C2 中输入_____",
+    "options": [
+      "（A）#NAME?",
+      "（B）#NAME?",
+      "（C）及格",
+      "（D）不及格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列 Excel 公式输入的格式中，正确的是_____",
+    "options": [
+      "（A）#NAME?",
+      "（B）None",
+      "（C）1",
+      "（D）None"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 工作表的第 2 行第 3 栏的单元格的地址是_____",
+    "options": [
+      "（A）B3",
+      "（B）C2",
+      "（C）C2$",
+      "（D）$B$3"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果在 Excel 工作表某单元格中输入“=\"上海\"&\"电子\"”，显示结果为_____",
+    "options": [
+      "（A）上海&电子",
+      "（B）上海电子",
+      "（C）\"上海\"&\"电子\"",
+      "（D）上海 电子"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016自动筛选状态下，所选数据表的每个列名旁都对应着一个下拉列表按钮，该按钮可以设定各自的筛选条件，这些条件之间的关系是________。",
+    "options": [
+      "（A）与",
+      "（B）或",
+      "（C）非",
+      "（D）异或"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，单元格区域“A2:B3”所代表的单元格是_____",
+    "options": [
+      "（A）A1、B3",
+      "（B）B1、B2、B3",
+      "（C）A2、B2、A3、B3",
+      "（D）A1、A2、A3、B3"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "一个 Excel 工作簿中含有______个默认工作表。",
+    "options": [
+      "（A）1",
+      "（B）3",
+      "（C）16",
+      "（D）256"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 工作表的单元格中输入公式时，应先输入________号。",
+    "options": [
+      "（A）=",
+      "（B）&",
+      "（C）@",
+      "（D）%"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 中，有关行高的表述，下面说法中错误的是_____。",
+    "options": [
+      "（A）整行的高度是一样的",
+      "（B）在不调整行高的情况下，系统默认设置行高自动以本行中最高的字符为准",
+      "（C）行增高时，该行各单元格中的字符也随之自动增高",
+      "（D）一次可以调整多行的行高"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，对数据区域 B5:E7 中所有的数据求和，正确的函数写法是_____",
+    "options": [
+      "（A）SUM(B5:E5,E5:E7)",
+      "（B）SUM(B5:C5,C5:E7)",
+      "（C）SUM(B5:E7)",
+      "（D）SUM(B5:C5,C5:E7)"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Excel 2016 中的筛选功能描述正确的是_____",
+    "options": [
+      "（A）按要求对工作表的数据进行排序",
+      "（B）隐藏符合条件的数据",
+      "（C）显示符合条件的数据",
+      "（D）删除不符合条件的数据"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下 Excel 2016 概念中，与磁盘上的.xlsx 文件对应的术语是_____",
+    "options": [
+      "（A）单元格",
+      "（B）单元格区域",
+      "（C）工作表",
+      "（D）工作簿"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Excel 工作簿，说法正确的是_____",
+    "options": [
+      "（A）工作簿与工作表实际上是同一概念",
+      "（B）一个工作簿可以包含若干个工作表",
+      "（C）一个单元格中可以包含多个工作表",
+      "（D）一个工作表可以包含若干个工作簿"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，进行分类汇总操作时首先应按照要分类的关键字段进行__________。",
+    "options": [
+      "（A）筛选",
+      "（B）查找",
+      "（C）排序",
+      "（D）计算"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 中，公式“=SUM(C2:E4)”，参与求和的单元格是_____",
+    "options": [
+      "（A）C2、E4",
+      "（B）C2、C3、C4、E2、E3、E4",
+      "（C）C2、D2、E2、C4、D4、E4",
+      "（D）C2、C3、C4、D2、D3、D4、E2、E3、E4"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列函数中， _____函数不需要参数。",
+    "options": [
+      "（A）DATE",
+      "（B）DAY",
+      "（C）TODAY",
+      "（D）TIME"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 的一个单元格中输入电话号码“'02188665522”，则它的默认对齐方式是_____",
+    "options": [
+      "（A）左对齐",
+      "（B）右对齐",
+      "（C）居中",
+      "（D）两端对齐"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，要选取 Sheet1、Sheet2、Sheet3 三张工作表，不正确的操作是______。",
+    "options": [
+      "（A）按 Shift 键，分别单击 Sheet1、Sheet2、Sheet3",
+      "（B）按 Ctrl 键，分别单击 Sheet1、Sheet2、Sheet3",
+      "（C）分别单击 Sheet1、Sheet2、Sheet3",
+      "（D）单击 Sheet1，再按 Shift 键，同时单击 Sheet3"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，当单元格输入结束后，可使用回车键或单击编辑栏上的“输入”按钮确认输入内容，这两种确认方法：______。",
+    "options": [
+      "（A）没有区别",
+      "（B）输入按钮是激活下一单元格，回车键则保持当前单元格仍为活动单元格",
+      "（C）回车键是激活下一单元格，输入按钮则保持当前单元格仍为活动单元格",
+      "（D）两种方法均是激活下一单元格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，要在单元格中输入数字字符“00123”，下列正确的是______。",
+    "options": [
+      "（A）\"00123\"",
+      "（B）123",
+      "（C）00123",
+      "（D）'00123"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中输入一公式时，应先在单元格中输入______。",
+    "options": [
+      "（A）：",
+      "（B）=",
+      "（C）?",
+      "（D）/"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，函数 SUM(A1:A3,A5,A8:A11)相当于公式______。",
+    "options": [
+      "（A）#VALUE!",
+      "（B）#VALUE!",
+      "（C）#VALUE!",
+      "（D）#VALUE!"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "当 Excel 2016 中某单元格显示为#DIV/0!，表示此单元格______。",
+    "options": [
+      "（A）出现了非法字符",
+      "（B）出现了非法数字",
+      "（C）出现了除数为零",
+      "（D）出现了无效引用"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，当公式中出现被零除的现象时，产生的错误值是____。",
+    "options": [
+      "（A）#N/A!",
+      "（B）#DIV/0!",
+      "（C）#NUM!",
+      "（D）#VALUE!"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "设 E1 单元格中的公式为=A3+B4，当 B 列被删除时，E1 单元格中的公式将调整为____。",
+    "options": [
+      "（A）#VALUE!",
+      "（B）#VALUE!",
+      "（C）5",
+      "（D）#REF！"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果 Excel 2016 某单元格显示为一串“#####”，这表示______。",
+    "options": [
+      "（A）公式错误",
+      "（B）格式错误",
+      "（C）行高不够",
+      "（D）列宽不够"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 的“常用”工具栏中，“Σ”图标的功能是____。",
+    "options": [
+      "（A）函数向导",
+      "（B）自动求和",
+      "（C）升序",
+      "（D）图表向导"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，在单元格中输入“=MAX(B2:B8)”，其作用是____。",
+    "options": [
+      "（A）比较 B2 与 B8 的大小",
+      "（B）求 B2～B8 之间的单元格的最大值",
+      "（C）求 B2 与 B8 的和",
+      "（D）求 B2～B8 之间的单元格的平均值"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "单元格 F3 的绝对地址表达式为____。",
+    "options": [
+      "（A）$F3",
+      "（B）#F3",
+      "（C）$F$3",
+      "（D）F#3"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中引用两个区域的公共部分，应使用引用运算符____。",
+    "options": [
+      "（A）冒号",
+      "（B）连字符",
+      "（C）逗号",
+      "（D）空格"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 的“格式”工具栏中，“，”图标的功能是____。",
+    "options": [
+      "（A）百分比样式",
+      "（B）小数点样式",
+      "（C）千位分隔样式",
+      "（D）货币样式"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，当用户希望使标题位于表格中央时，可以使用对齐方式中的____。",
+    "options": [
+      "（A）居中",
+      "（B）填充",
+      "（C）分散对齐",
+      "（D）跨列居中"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，关于日期数据的下列叙述，______不正确。",
+    "options": [
+      "（A）可以和整数相加",
+      "（B）可以和整数相减",
+      "（C）可以和字符相加",
+      "（D）可以用于日期函数"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "对选定的单元格和区域命名时，需要选择______选项卡的“定义的名称”组中的“定义名称”命令。",
+    "options": [
+      "（A）开始",
+      "（B）插入",
+      "（C）公式",
+      "（D）数据"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 中默认的数字格式为______。",
+    "options": [
+      "（A）右对齐",
+      "（B）左对齐",
+      "（C）居中",
+      "（D）不确定"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 合并及居中操作中，要将居中的数据放在此区域的______。",
+    "options": [
+      "（A）最右上一个单元格中",
+      "（B）中间的一个单元格中",
+      "（C）最左上一个单元格中",
+      "（D）任意一个单元格中"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "为了方便会计使用，Excel 2016 的单元格可以选用______格式，给数字前加上专用的货币符号。",
+    "options": [
+      "（A）科学计数",
+      "（B）常规",
+      "（C）会计专用",
+      "（D）特殊符号"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中的某个单元格中输入文字，若要文字能自动换行，可利用“单元格格式”对话框的____选项卡，选择“自动换行”。",
+    "options": [
+      "（A）数字",
+      "（B）对齐",
+      "（C）图案",
+      "（D）保护"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中单元格的格式____更改。",
+    "options": [
+      "（A）一旦确定，将不可",
+      "（B）依输入数据的格式而定，并不能",
+      "（C）可随时",
+      "（D）更改后，将不可"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "对数据表进行自动筛选后，所选数据表的每个字段名旁都对应着一个______。",
+    "options": [
+      "（A）下拉菜单",
+      "（B）对话框",
+      "（C）窗口",
+      "（D）工具栏"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 的“页面设置”窗口的“缩放比例”_______。",
+    "options": [
+      "（A）即影响显示时的大小，又影响打印时的大小",
+      "（B）不影响显示时的大小，但影响打印时的大小",
+      "（C）即不影响显示时的大小，也不影响打印时的大小",
+      "（D）影响显示时的大小，但不影响打印时的大小"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 的单元格边框可以有单线，不可以有______。",
+    "options": [
+      "（A）粗线",
+      "（B）点划线",
+      "（C）双线",
+      "（D）三线"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关 Excel 2016 的边框线，______说法不正确。",
+    "options": [
+      "（A）可以用粗线，也可以用细线",
+      "（B）可以有横线，也可以有竖线",
+      "（C）可以有单线，也可以有双线",
+      "（D）不能用斜线"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，关于列宽的描述，不正确的是______。",
+    "options": [
+      "（A）可以用多种方法改变列宽",
+      "（B）不同列的列宽可以不一样",
+      "（C）列宽可以调整",
+      "（D）同一列中不同单元格的宽度可以不一样"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 中，运算符&的作用是______。",
+    "options": [
+      "（A）连接两个文本值",
+      "（B）把文本值转换为数值",
+      "（C）单元区域合并计算",
+      "（D）乘幂计算"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 中，利用开始选型卡中的______按钮，可快速地实现将格式从工作表的一个区域复制到几个相邻的区域。",
+    "options": [
+      "（A）剪切",
+      "（B）复制",
+      "（C）粘贴",
+      "（D）格式刷"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 关于筛选掉的记录的描述______是错误的。",
+    "options": [
+      "（A）不打印",
+      "（B）不显示",
+      "（C）永远丢失了",
+      "（D）可以恢复"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "将相对引用变为绝对引用的快捷键是______",
+    "options": [
+      "（A）F9",
+      "（B）F8",
+      "（C）F4",
+      "（D）F6"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，选中一个单元格后按 Del 键，则______。",
+    "options": [
+      "（A）删除该单元格中的数据和格式",
+      "（B）删除该单元格",
+      "（C）仅删除该单元格中的数据",
+      "（D）仅删除该单元格中的格式"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016 新建立的工作簿通常包含 张工作表。",
+    "options": [
+      "（A）3",
+      "（B）9",
+      "（C）16",
+      "（D）255"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 工作表中，隐藏的行和列在打印时将______。",
+    "options": [
+      "（A）被打印出来",
+      "（B）不被打印出来",
+      "（C）只打印行",
+      "（D）只打印列"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 2016中，文本数据前后相连的运算符是______。",
+    "options": [
+      "（A）+",
+      "（B）#",
+      "（C）&",
+      "（D）@"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果 Excel 某单元格中的公式为“=A20”，将该公式复制到别的单元格，复制出来的公式 。",
+    "options": [
+      "（A）一定改变",
+      "（B）不会改变",
+      "（C）变为“=$A20”",
+      "（D）变为“=A$20”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果 Excel 某单元格中的公式为“=$A$20”，将该公式复制到别的单元格，复制出来的公式 。",
+    "options": [
+      "（A）一定改变",
+      "（B）不会改变",
+      "（C）变为“=$A20”",
+      "（D）变为“=A$20”"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Excel 某单元格中公式为“=IF(\"工人\">\"工程师\",TRUE,FALSE)”，其计算结果为 。",
+    "options": [
+      "（A）TRUE",
+      "（B）FALSE",
+      "（C）工人",
+      "（D）工程师"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，一个 IF 函数可以根据一个条件判断的真伪得到_________种可能。",
+    "options": [
+      "（A）4",
+      "（B）3",
+      "（C）2",
+      "（D）1"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Excel 2016 中，可以对需要引用的单元格区域定义名称，其在公式中的引用方式相当于对单元格的__________。",
+    "options": [
+      "（A）交叉引用",
+      "（B）相对引用",
+      "（C）混合引用",
+      "（D）绝对引用"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 文件默认的扩展名是_____",
+    "options": [
+      "（A）POTX",
+      "（B）PPTX",
+      "（C）PPSX",
+      "（D）RTF"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，需要利用模板创建演示文稿，不能通过______途径完成。",
+    "options": [
+      "（A）“样本模板”",
+      "（B）“Office．com 模板”",
+      "（C）“我的模板”",
+      "（D）“主题”"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，可以对幻灯片进行移动、复制、删除等操作，但不能对幻灯片对象进行编辑的视图为_____",
+    "options": [
+      "（A）普通视图",
+      "（B）幻灯片浏览视图",
+      "（C）幻灯片放映视图",
+      "（D）备注视图"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，幻灯片母版包含______个占位符，用来确定幻灯片母版的板式。",
+    "options": [
+      "（A）4",
+      "（B）5",
+      "（C）8",
+      "（D）7"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中演示幻灯片时，使演示的进展逐步展示片内不同层次、不同对象的内容，这种设计属于_____",
+    "options": [
+      "（A）幻灯片的超级链接设计",
+      "（B）幻灯片的切换设计",
+      "（C）幻灯片的动画设计",
+      "（D）幻灯片的格式设计"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，关于幻灯片播放的描述正确的是________。",
+    "options": [
+      "（A）只能按幻灯片编号的顺序播放",
+      "（B）部分播放时，只能放映相邻连续的幻灯片",
+      "（C）可以按任意顺序播放",
+      "（D）不能倒回去播放"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在幻灯片切换中，不可以设置幻灯片切换的_____。",
+    "options": [
+      "（A）换页方式",
+      "（B）颜色",
+      "（C）效果",
+      "（D）声音"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 窗口中，如果同时打开两个 PowerPoint 演示文稿，会出现_____",
+    "options": [
+      "（A）同时打开两个窗口",
+      "（B）打开第二个时，第一个将被关闭",
+      "（C）当打开一个后，第二个无法打开",
+      "（D）执行非法操作，PowerPoint 将被关闭"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 中，放映幻灯片时，如果用户希望改变其中幻灯片的放映顺序，而又不破坏原演示文稿，正确的做法是_____",
+    "options": [
+      "（A）创建“自定义放映”",
+      "（B）创建“幻灯片切换”",
+      "（C）创建“自定义动画”",
+      "（D）设置“动画方案”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在放映演示文稿时，要改变幻灯片的播放顺序，应在幻灯片中设置",
+    "options": [
+      "（A）幻灯片的动画",
+      "（B）幻灯片的格式",
+      "（C）幻灯片的切换",
+      "（D）幻灯片的超级链接"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，可以通过“设置背景格式”对话框，设置背景的填充、图片更正、______和艺术效果。",
+    "options": [
+      "（A）图片板式",
+      "（B）图片样式",
+      "（C）图片位置",
+      "（D）图片颜色"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，设置一张幻灯片到下一张幻灯片的“溶解”效果，使用的命令为_____",
+    "options": [
+      "（A）动画",
+      "（B）幻灯片切换",
+      "（C）动作设置",
+      "（D）超接"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 中，用户希望从一个演示文稿向另一个演示文稿中复制部分幻灯片，正确的做法是________",
+    "options": [
+      "（A）只需要打开目标演示文稿即可",
+      "（B）利用文件复制命令，覆盖另一个文件",
+      "（C）利用“选项”对话框，将源文件插入即可",
+      "（D）需要同时打开源演示文稿和目标文稿，使用复制、粘贴命令"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，可以使用______选项卡上的命令来为切换幻灯片时添加声音。",
+    "options": [
+      "（A）动画",
+      "（B）切换",
+      "（C）设计",
+      "（D）插入"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，可以通过“设置放映方式”对话框，设置______等。",
+    "options": [
+      "（A）放映方式",
+      "（B）放映时间",
+      "（C）换片方式",
+      "（D）切换方式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在使用 PowerPoint 的幻灯片放映视图放映演示文稿过程中，要结束放映，可操作的方法有______",
+    "options": [
+      "（A）按 Esc 键",
+      "（B）按 Ctrl+E 键",
+      "（C）按 Enter 键",
+      "（D）按 Ctrl+Z 键"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 的浏览视图下，直接拖动某一张幻灯片到新的位置，可以完成_________",
+    "options": [
+      "（A）移动幻灯片",
+      "（B）删除幻灯片",
+      "（C）复制幻灯片",
+      "（D）选定幻灯片"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 的视图模式有______种。",
+    "options": [
+      "（A）5",
+      "（B）4",
+      "（C）3",
+      "（D）2"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 是______。",
+    "options": [
+      "（A）数据库管理软件",
+      "（B）文字处理软件",
+      "（C）电子表格软件",
+      "（D）幻灯片制作软件（或演示文稿制作软件）"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，若要将演示文稿保存为能在 Internet 上发布的演示文稿，应该选择______文件类型。",
+    "options": [
+      "（A）HTML",
+      "（B）DOCX",
+      "（C）PPSX",
+      "（D）PPTX"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，要给幻灯片应用逻辑节，要通过“开始”选项卡______组来实现。",
+    "options": [
+      "（A）段落",
+      "（B）编辑",
+      "（C）绘图",
+      "（D）幻灯片"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，幻灯片中占位符的作用是________。",
+    "options": [
+      "（A）示文本长度",
+      "（B）限制插入对象的数量",
+      "（C）表示图形大小",
+      "（D）为文本、图形等对象预留位置"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 中主要的编辑视图是______。",
+    "options": [
+      "（A）幻灯片浏览视图",
+      "（B）普通视图",
+      "（C）幻灯片放映视图",
+      "（D）备注视图"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，如需要在演示的每页幻灯片上看到日期和页码，较为快捷的方法可以利用______来实现。",
+    "options": [
+      "（A）在幻灯片内直接一次插入日期和页码对象",
+      "（B）在幻灯片浏览状态下进行插入",
+      "（C）利用模板进行建立",
+      "（D）在母版上插入日期和页码对象"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 的母版状态下，以下说法错误的是______。",
+    "options": [
+      "（A）对各层次标题进行统一格式化",
+      "（B）可以统一整套幻灯片的风格",
+      "（C）在合适的位置上输入一些文稿标志、页码、日期等对象",
+      "（D）为在幻灯片视图下添加的对象设置动画效果"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，若要在每张幻灯片相同位置都显示公司 Logo 图片，应在_____中进行图片插入操作。",
+    "options": [
+      "（A）普通视图",
+      "（B）幻灯片母版",
+      "（C）幻灯片浏览视图",
+      "（D）阅读视图"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，要对整套的统一对象（如日期区、页脚区等）进行编辑和修改，应在______状态下进行。",
+    "options": [
+      "（A）幻灯片",
+      "（B）前景",
+      "（C）剪贴画",
+      "（D）母版"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 PowerPoint 2016 的配色方案，以下说法错误的是_______。",
+    "options": [
+      "（A）配色方案不适用于整套演示文稿",
+      "（B）配色方案中包括背景、标题和图表等多方面的颜色",
+      "（C）不同的幻灯片可选择不同的配色方案",
+      "（D）\"颜色\"配色方案由\"内置\"和\"自定义\"组成"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 PowerPoint 2016 的模板，以下说法错误的是______。",
+    "options": [
+      "（A）幻灯片中套用现成的模板，可方便快速地建立起一套精美的演示文稿",
+      "（B）应用了一种模板后，不能再进行修改",
+      "（C）套用了模板后，整套演示文稿就有了统一的背景",
+      "（D）套用了模板后，每一演示页面上的各种标题对象有了统一的字体、颜色等格式"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关 PowerPoint 2016 演示文稿的背景，以下说法错误的是______。",
+    "options": [
+      "（A）可以对某张幻灯片的背景进行设置",
+      "（B）可以对整套演示文稿的背景进行统一设置",
+      "（C）可使用图片作背景",
+      "（D）添加了模板的幻灯片，不能再使用\"背景\"命令"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，表格对象的建立是 PowerPoint 2016 利用_______来完成的。",
+    "options": [
+      "（A）其他表格进行修改",
+      "（B）PowerPoint 2016 自身所带有的表格功能",
+      "（C）Excel 中的表格功能",
+      "（D）Word 中的表格功能"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，对文字进行格式化操作，除使用\"字体\"对话框之外，还可以用工具按钮。下列______功能不能由默认的工具按钮来完成。",
+    "options": [
+      "（A）字形、字号",
+      "（B）字体、下划线",
+      "（C）颜色、阴影",
+      "（D）浮雕、上标下标"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，通过______可以在对象之间复制动画效果。",
+    "options": [
+      "（A）格式刷",
+      "（B）动画刷",
+      "（C）在“动画”选项卡的“动画”组中进行设置",
+      "（D）在“开始”选项卡“剪贴板”组的“粘贴选项”中进行设置"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，关于隐藏了的幻灯片，以下说法中正确的是______。",
+    "options": [
+      "（A）隐藏了的幻灯片不能够设置定时",
+      "（B）隐藏了的幻灯片不能够打印出来",
+      "（C）隐藏了的幻灯片不能够编辑修改",
+      "（D）隐藏了的幻灯片在需要时还可以被演示"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，若要在幻灯片上配合讲解做些记号，可使用_______。",
+    "options": [
+      "（A）“绘图笔”",
+      "（B）“画笔”软件",
+      "（C）“绘图”工具栏",
+      "（D）光笔"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，若要在放映过程中能迅速找到某张幻灯片，可通过_______的方法直接移到要查找的幻灯片。",
+    "options": [
+      "（A）翻页",
+      "（B）幻灯片漫游",
+      "（C）退出放映视图，再进行翻页",
+      "（D）退出放映视图，再进行查找"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 提供了文件的______功能，可以将文稿的有关文件都存放在一起。",
+    "options": [
+      "（A）打包",
+      "（B）另存为",
+      "（C）存储",
+      "（D）定位"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，要将幻灯片打印输出，以下说法中错误的是______。",
+    "options": [
+      "（A）可将整张幻灯片打印出来",
+      "（B）可打印出备注页幻灯片",
+      "（C）可打印出浏览页幻灯片",
+      "（D）可打印出大纲视图幻灯片"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，在幻灯片中设置文本格式，首先要____标题占位符、文本占位符或文本框。",
+    "options": [
+      "（A）选定",
+      "（B）单击",
+      "（C）双击",
+      "（D）右击"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，幻灯片____是一张特殊的幻灯片，包含已设定格式的占位符。这些占位符是为标题、主要文本和所有幻灯片中出现的背景项目而设置的。",
+    "options": [
+      "（A）模板",
+      "（B）母版",
+      "（C）版式",
+      "（D）样式"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "改变演示文稿外观可以通过_________________",
+    "options": [
+      "（A）修改主题",
+      "（B）修改母版",
+      "（C）修改背景样式",
+      "（D）以上三个都对"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "幻灯片中占位符的作用是_________________",
+    "options": [
+      "（A）表示文本长度",
+      "（B）限制插入对象的数量",
+      "（C）表示图形大小",
+      "（D）为文本、图形预留位置"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "幻灯处放映过程中，单击鼠标右键，选择“指针选项”中的荧光笔，在讲解过程中可以进行写和画，其结果是______________",
+    "options": [
+      "（A）对幻灯片进行了修改",
+      "（B）对幻灯片没有进行修改",
+      "（C）写和画的内容留在幻灯片上，下次放映还会显示出来",
+      "（D）写和画的内容可以保存起来，以便下次放映时显示出来"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "要使幻灯片在放映时能够自动播放，需要为其设置____。",
+    "options": [
+      "（A）超级链接",
+      "（B）动作按钮",
+      "（C）排练计时",
+      "（D）录制旁白"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "下面哪个视图中，不可以编辑、修改幻灯片_________________",
+    "options": [
+      "（A）浏览",
+      "（B）普通",
+      "（C）大纲",
+      "（D）备注页"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，可以创建某些____，在幻灯片放映时单击它们就可以跳转到特定的幻灯片或运行一个嵌入的演示文稿。",
+    "options": [
+      "（A）按钮",
+      "（B）过程",
+      "（C）替换",
+      "（D）粘贴"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在PowerPoint 2016中，可利用________来组织大型幻灯片，以简化其管理和导航。",
+    "options": [
+      "（A）占位符",
+      "（B）节",
+      "（C）视图",
+      "（D）动画刷"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，如果有额外的一、两行不适合文本占位符的文本，则PowerPoint 2016 会____。",
+    "options": [
+      "（A）不调整文本的大小，也不显示超出部分",
+      "（B）自动调整文本的大小使其适合占位符",
+      "（C）不调整文本的大小，超出部分自动移至下一幻灯片",
+      "（D）不调整文本的大小，但可以在幻灯片放映时用滚动条显示文本"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 中，下列说法中错误的是_________________",
+    "options": [
+      "（A）可以动态显示文本和对象",
+      "（B）可以更改动画对象的出现顺序",
+      "（C）图表中的元素不可以设置动画效果",
+      "（D）可以设置幻灯片切换效果"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在一张幻灯片中，____。",
+    "options": [
+      "（A）只能包含文字信息",
+      "（B）只能包含文字与图形对象",
+      "（C）只能包括文字、图形与声音",
+      "（D）可以包含文字、图形、声音、影片等"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，演示文稿与幻灯片的关系是____。",
+    "options": [
+      "（A）演示文稿即是幻灯片",
+      "（B）演示文稿中包含多张幻灯片",
+      "（C）幻灯片中包含多个演示文稿",
+      "（D）两者无关"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在幻灯片中添加动作按钮，是为了____。",
+    "options": [
+      "（A）演示文稿内幻灯片的跳转功能",
+      "（B）出现动画效果",
+      "（C）用动作按钮控制幻灯片的制作",
+      "（D）用动作按钮控制幻灯片统一的外观"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "有关幻灯片的注释，说法不正确的是",
+    "options": [
+      "（A）注释信息只出现在备注页视图中",
+      "（B）注释信息可在备注页视图中进行编辑",
+      "（C）注释信息不能随同幻灯片一起播放",
+      "（D）注释信息可出现在幻灯片浏览视图中"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果希望 PowerPoint 2016 演示文稿的作者名出现在所有幻灯片中，则应将其加入到____。",
+    "options": [
+      "（A）幻灯片母版",
+      "（B）备注母版",
+      "（C）标题母版",
+      "（D）幻灯片设计模板"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "将 PowerPoint 2016 演示文稿整体地设置为统一外观的功能是____。",
+    "options": [
+      "（A）统一动画效果",
+      "（B）配色方案",
+      "（C）固定的幻灯片母版",
+      "（D）应用设计模板"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 幻灯片中，要选定多个对象，可通过____实现。",
+    "options": [
+      "（A）按着 Shift 键的同时，用鼠标单击各个对象",
+      "（B）按着 Ctrl 键的同时，用鼠标单击各个对象",
+      "（C）按着 Alt 键的同时，用鼠标单击各个对象",
+      "（D）按着 Tab 键的同时，用鼠标单击各个对象"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，执行“文件”选项卡中的“关闭”命令，则____。",
+    "options": [
+      "（A）关闭 PowerPoint 2016 窗口",
+      "（B）关闭正在编辑的演示文稿",
+      "（C）退出 PowerPoint 2016",
+      "（D）关闭所有打开的演示文稿"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，幻灯片母版是____。",
+    "options": [
+      "（A）用户定义的第一张幻灯片，以供其他幻灯片套用",
+      "（B）用于统一演示文稿中各种格式的特殊幻灯片",
+      "（C）用户定义的幻灯片模板",
+      "（D）演示文稿的总称"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "为在 PowerPoint 2016 幻灯片放映时，对某张幻灯片加以说明，可____。",
+    "options": [
+      "（A）用鼠标作笔进行勾画",
+      "（B）在工具栏选“绘图笔”进行勾画",
+      "（C）在 Windows 画图工具箱中选“绘图笔”进行勾画",
+      "（D）在幻灯片放映时右击鼠标，在快捷菜单的“指针选项”中选“笔”命令"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下不能实现插入幻灯片的操作是______。",
+    "options": [
+      "（A）执行“文件/新建”命令",
+      "（B）单机“开始”选项卡“幻灯片”组的“新建幻灯片”按钮",
+      "（C）<Ctrl>+m",
+      "（D）从快捷菜单选择“新建幻灯片”命令"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "若要在 PowerPoint 2016 中插入图片，下列说法错误的是____。",
+    "options": [
+      "（A）允许插入在其他图形程序中创建的图片",
+      "（B）为了将某种格式的图片插入到幻灯片中，必须安装相应的图形过滤器",
+      "（C）选择插入菜单中的\"图片\"命令，再选择\"来自文件\"",
+      "（D）在插入图片前，不能预览图片"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，关于在幻灯片中插入图表的说法中错误的是____。",
+    "options": [
+      "（A）可以直接通过复制和粘贴的方式将图表插入到幻灯片中",
+      "（B）对不含图表占位符的幻灯片可以插入新图表",
+      "（C）只能通过插入包含图表的新幻灯片来插入图表",
+      "（D）双击图表占位符可以插入图表"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，下列有关表格的说法错误的是____。",
+    "options": [
+      "（A）要向幻灯片中插入表格，需切换到普通视图",
+      "（B）要向幻灯片中插入表格，需切换到幻灯片视图",
+      "（C）不能在单元格中插入斜线",
+      "（D）可以分拆单元格"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，下列说法错误的是________。",
+    "options": [
+      "（A）不可以为剪贴画重新上色",
+      "（B）可以向已存在的幻灯片中插入剪贴画",
+      "（C）可以修改剪贴画",
+      "（D）可以利用自动版式建立带剪贴画的幻灯片，用来插入剪贴画"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，下列关于表格的说法错误的是____。",
+    "options": [
+      "（A）可以向表格中插入新行和新列",
+      "（B）不能合并和拆分单元格",
+      "（C）可以改变列宽和行高",
+      "（D）可以给表格添加边框"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 的____下，可以用拖动方法改变幻灯片的顺序。",
+    "options": [
+      "（A）幻灯片视图",
+      "（B）备注页视图",
+      "（C）幻灯片浏览视图",
+      "（D）幻灯片放映"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，将已经创建的演示文稿转移到其他没有安装 PowerPoint 2016 软件的机器上放映的命令是。",
+    "options": [
+      "（A）演示文稿打包",
+      "（B）演示文稿发送",
+      "（C）演示文稿复制",
+      "（D）设置幻灯片放映"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 的演示文稿具有阅读、幻灯片浏览、备注页、幻灯片放映和____等 5 种视图。",
+    "options": [
+      "（A）普通",
+      "（B）大纲",
+      "（C）页面",
+      "（D）联机版式"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "演示文稿的基本组成单元是____。",
+    "options": [
+      "（A）文本",
+      "（B）图形",
+      "（C）超链点",
+      "（D）幻灯片"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 中，显示出当前被处理的演示文稿文件名的栏是____。",
+    "options": [
+      "（A）工具栏",
+      "（B）菜单栏",
+      "（C）标题栏",
+      "（D）状态栏"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 在幻灯片中建立超链接有两种方式：通过把某对象作为\"超链点\"和____。",
+    "options": [
+      "（A）文本框",
+      "（B）文本",
+      "（C）图片",
+      "（D）动作按钮"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，激活超链接的动作可以是在超链点用鼠标“单击”和____。",
+    "options": [
+      "（A）移过",
+      "（B）拖动",
+      "（C）双击",
+      "（D）右击"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "剪切幻灯片，首先要选中当前幻灯片，然后____。",
+    "options": [
+      "（A）单击 开始选项卡“幻灯片”组中“重设”命令",
+      "（B）单击 开始选项卡“剪贴板”组中“剪切”命令",
+      "（C）按住 Shift 键，然后利用拖放控制点",
+      "（D）按住 Ctrl 键，然后利用拖放控制点"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "要实现在播放时幻灯片之间的跳转，可采用的方法是____。",
+    "options": [
+      "（A）设置主题",
+      "（B）设置动画",
+      "（C）设置幻灯片切换方式",
+      "（D）设置动作按钮"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 中，Smart 图形不包含下面的____________",
+    "options": [
+      "（A）图表",
+      "（B）流程图",
+      "（C）循环图",
+      "（D）层次结构图"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 的打印对话框中，不是合法的“打印内容”选项是____。",
+    "options": [
+      "（A）备注页",
+      "（B）幻灯片",
+      "（C）讲义",
+      "（D）幻灯片浏览"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "PowerPoint 2016 在缺省状态下，按 F5 键后，________。",
+    "options": [
+      "（A）从第一张幻灯片开始放映",
+      "（B）从当前幻灯片开始放映",
+      "（C）从选定的幻灯片开始放映",
+      "（D）从任意一张幻灯片开始放映"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，若想在一屏内观看多张幻灯片的播放效果，可采用的方法是____。",
+    "options": [
+      "（A）切换到幻灯片放映视图",
+      "（B）打印预览",
+      "（C）切换到幻灯片浏览视图",
+      "（D）切换到幻灯片大纲视图"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，幻灯片放映时使光标变成“激光笔”效果的操作是______。",
+    "options": [
+      "（A）按 Ctrl+F5",
+      "（B）按 Shift+F5",
+      "（C）执行“幻灯片放映”选项卡 “自定义幻灯片放映”按钮",
+      "（D）按住 Ctrl 键同时，按住鼠标的左键"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，安排幻灯片对象的布局可选择____来设置。",
+    "options": [
+      "（A）应用设计模板",
+      "（B）幻灯片版式",
+      "（C）背景",
+      "（D）配色方案"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，文字区的插入条光标存在，证明此时是____状态。",
+    "options": [
+      "（A）移动",
+      "（B）文字编辑",
+      "（C）复制",
+      "（D）文字框选取"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，母版视图分为______、讲义母版和备注母版三类。",
+    "options": [
+      "（A）“幻灯片母版”",
+      "（B）“自定义母版”",
+      "（C）“设计母版”",
+      "（D）“版式母版”"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，为幻灯片中的对象自定义动画效果，不可以选择添加动画的______效果。",
+    "options": [
+      "（A）进入",
+      "（B）强调",
+      "（C）退出",
+      "（D）声音"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，如果在幻灯片浏览视图中要选定若干张不连续的幻灯片，那么应先按住____键，再分别单击各幻灯片。",
+    "options": [
+      "（A）Tab",
+      "（B）Ctrl",
+      "（C）Shift",
+      "（D）Alt"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "放映当前幻灯片的快捷键是______。",
+    "options": [
+      "（A）F6",
+      "（B）Shift+F6",
+      "（C）F5",
+      "（D）Shift+F5"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，关于幻灯片动画设置，正确的描述是________。",
+    "options": [
+      "（A）幻灯片中的每一个对象都只能使用相同的动画效果",
+      "（B）各个对象的动画出现顺序是固定的，不能随意修改",
+      "（C）每个对象只能设置动画效果，不能设置声音效果",
+      "（D）某些动画被设置完后，还可修改动画效果"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 PowerPoint 2016 中，通过修改文件的__________格式，可以同时影响文件内各个幻灯片之中的标题及文字位置、字体、颜色、大小等默认设计风格。",
+    "options": [
+      "（A）幻灯片母版",
+      "（B）添加动画",
+      "（C）换片方式",
+      "（D）自定义幻灯片放映"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下面______命令用于测试网络是否连通。",
+    "options": [
+      "（A）telnet",
+      "（B）nslookup",
+      "（C）ping",
+      "（D）ftp"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "126.0.0.1 属于________类 IP 地址。",
+    "options": [
+      "（A）A",
+      "（B）B",
+      "（C）C",
+      "（D）D"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "按照网络分布和覆盖的地理范围，可将计算机网络分为_____",
+    "options": [
+      "（A）局域网、互联网和 internet 网",
+      "（B）广域网、局域网和城域网",
+      "（C）广域网、互联网和城域网",
+      "（D）Internet 网、城域网和 Novell 网"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "客户/服务器模式的局域网，其网络硬件主要包括服务器、工作站、网卡和",
+    "options": [
+      "（A）网络拓扑结构",
+      "（B）计算机",
+      "（C）传输介质",
+      "（D）网络协议"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机网络最突出的特征是_____",
+    "options": [
+      "（A）运算速度快",
+      "（B）运算精度高",
+      "（C）存储容量大",
+      "（D）资源共享"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机网络的应用越来越普遍，它的最大好处在于_____",
+    "options": [
+      "（A）节省人力",
+      "（B）存储容量扩大",
+      "（C）可实现资源共享",
+      "（D）使信息存取速度提高"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 给我们提供了资源共享、浏览、检索信息和远程登录等多种服务，下面几个选项中用于远程登录的是_____",
+    "options": [
+      "（A）Telnet",
+      "（B）E-mail",
+      "（C）TCP/IP",
+      "（D）WWW"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "WWW 网是_____。",
+    "options": [
+      "（A）局域网的简称",
+      "（B）城域网的简称",
+      "（C）广域网的简称",
+      "（D）万维网的简称"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "LAN是_____的缩写。",
+    "options": [
+      "（A）超文本标记语言",
+      "（B）电子公告板",
+      "（C）网络电话",
+      "（D）局域网"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 与 WWW 的关系是_____",
+    "options": [
+      "（A）都是互联网，只是名称不同",
+      "（B）WWW 是 Internet 上的一种应用",
+      "（C）Internet 与 WWW 没有关系",
+      "（D）Internet 就是 WWW"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "局域网中以集中方式提供共享资源并对这些资源进行管理的计算机称为_____",
+    "options": [
+      "（A）服务器",
+      "（B）工作站",
+      "（C）终端",
+      "（D）主机"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 中最主要的协议是_____",
+    "options": [
+      "（A）IPX",
+      "（B）NetBIOS",
+      "（C）SPX",
+      "（D）TCP/IP"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列计算机网络的传输介质中，数据传输速度最快的是________。",
+    "options": [
+      "（A）光纤",
+      "（B）同轴电缆",
+      "（C）双绞线",
+      "（D）红外线"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "为了解决 IP 地址不便记忆的问题，通常表示网址时使用_____",
+    "options": [
+      "（A）域名",
+      "（B）文件名",
+      "（C）目录名",
+      "（D）电话号码"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Internet 网络上，可以将远程计算机中的文件复制到本地计算机中，使用的协议是_____",
+    "options": [
+      "（A）TCP",
+      "（B）IP",
+      "（C）SMTP",
+      "（D）FTP"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Internet 中，用字符串表示的 IP 地址称为_____",
+    "options": [
+      "（A）账户",
+      "（B）域名",
+      "（C）主机名",
+      "（D）用户名"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在局域网中，传输介质不包括________。",
+    "options": [
+      "（A）双绞线",
+      "（B）光纤",
+      "（C）无线电波",
+      "（D）集线器"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列四项中，不属于因特网基本功能的是_____",
+    "options": [
+      "（A）电子邮件服务",
+      "（B）文件传输服务",
+      "（C）远程登录服务",
+      "（D）实时监测控制"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Internet 网中，主页的含义是_____",
+    "options": [
+      "（A）Internet 网的技术文件",
+      "（B）个人或机构网站的第一个 Web 页面",
+      "（C）Internet 网传送电子邮件的页面",
+      "（D）Internet 网比较重要的 Web 页面"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Internet 中，某 WWW 服务器提供的网页地址为 http://www.edu.cn，其中的“http”指的是_____",
+    "options": [
+      "（A）WWW 服务器主机名",
+      "（B）访问类型为超文本传输协议",
+      "（C）访问类型为文件传输协议",
+      "（D）WWW 服务器域名"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下属于合法 IP 地址的是_____",
+    "options": [
+      "（A）219.228.164.66",
+      "（B）219.265.164.66",
+      "（C）219.228.164.66.12",
+      "（D）219-228-164-66"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下不是正确 IP 地址的是_____",
+    "options": [
+      "（A）205.12.87.15",
+      "（B）159.128.23.15",
+      "（C）16.2.3.8",
+      "（D）126.78.33.256"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 浏览器是_____",
+    "options": [
+      "（A）一种操作系统",
+      "（B）TCP/IP 体系中的协议",
+      "（C）浏览 WWW 信息的客户端软件",
+      "（D）收发电子邮件的程序"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "一个学校的计算机网络系统，属于______。",
+    "options": [
+      "（A）TAN",
+      "（B）LAN",
+      "（C）MAN",
+      "（D）WAN"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "家里有一台台式计算机和一台带有无线网卡的便携式计算机，若要组建无线局域网，并能通过ADSL访问互联网，_____是不需要的。",
+    "options": [
+      "（A）无线网卡",
+      "（B）ADSL调制解调器",
+      "（C）无线路由器",
+      "（D）同轴电缆"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "TCP/IP 协议的含义是_____",
+    "options": [
+      "（A）局域网传输协议",
+      "（B）拨号入网传输协议",
+      "（C）传输控制协议和网间协议",
+      "（D）OSI 协议集"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "分布范围小，投资少，配置简单是_____的特点。",
+    "options": [
+      "（A）局域网",
+      "（B）城域网",
+      "（C）广域网",
+      "（D）互联网"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "统一资源定位符 URL 的作用是",
+    "options": [
+      "（A）标记因特网中的计算机位置",
+      "（B）完成域名与 IP 地址的转换",
+      "（C）统一标识因特网中各种资源的位置",
+      "（D）表示电子邮箱的地址"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet Explorer 窗口工具栏中“主页”按钮的功能是_____",
+    "options": [
+      "（A）链接到微软的主页 www.microsoft.com",
+      "（B）返回到前一个页面",
+      "（C）链接到当前访问的站点的首页",
+      "（D）链接到在“Internet 选项...”中设定的主页地址"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "根据域名代码规定，域名 shdzxx.com.cn 的网站类别是_____",
+    "options": [
+      "（A）教育机构",
+      "（B）军事部门",
+      "（C）商业组织",
+      "（D）国际组织"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "E-Mail 地址中@的含义是_____",
+    "options": [
+      "（A）或",
+      "（B）和",
+      "（C）与",
+      "（D）在"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列电子邮件地址，哪个是正确的_____",
+    "options": [
+      "（A）Liu@hotmail.com",
+      "（B）192.168.111.202",
+      "（C）sh.edu.cn",
+      "（D）http://www.sohu.com"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 上，访问 Web 信息时用的客户端程序是浏览器。下列哪个是目前常用的 Web 浏览器之一",
+    "options": [
+      "（A）Internet Explorer",
+      "（B）Outlook Express",
+      "（C）Yahoo",
+      "（D）FrontPage"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "与 Web 站点和 Web 页面密切相关的一个概念称“统一资源定位器”，它的英文缩写是_____",
+    "options": [
+      "（A）IP",
+      "（B）USB",
+      "（C）HTTP",
+      "（D）URL"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Intemet 中 URL 的含义是_____",
+    "options": [
+      "（A）统一资源定位器",
+      "（B）Intemet 协议",
+      "（C）简单邮件传输协议",
+      "（D）传输控制协议"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "通过 Internet 发送或接收电子邮件(E-mail)的首要条件是应该有一个电子邮件(E-mail)地址，它的正确形式是_____",
+    "options": [
+      "（A）用户名@域名",
+      "（B）用户名#域名",
+      "（C）用户名/域名",
+      "（D）用户名.域名"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "域名是 Internet 服务提供商（ISP）的计算机名，域名中的后缀.gov 表示机构所属类型为_____",
+    "options": [
+      "（A）军事机构",
+      "（B）政府机构",
+      "（C）教育机构",
+      "（D）商业公司"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于 Internet，下列说法不正确的是_____",
+    "options": [
+      "（A）Internet 是全球性的国际网络",
+      "（B）Internet 起源于美国",
+      "（C）通过 Internet 可以实现资源共享",
+      "（D）Internet 不存在网络安全问题"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "当将鼠标放在某个超级链接上时，鼠标指针形状会变为_____",
+    "options": [
+      "（A）手掌形",
+      "（B）空心十字形",
+      "（C）砂漏形",
+      "（D）空心箭头"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子邮件地址由两部分组成，用@号隔开，其中@号前为_____",
+    "options": [
+      "（A）用户名",
+      "（B）机器名",
+      "（C）本机域名",
+      "（D）密码"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "用 Outlook Express 发送电子邮件时，其附件_____",
+    "options": [
+      "（A）只能是文本文件",
+      "（B）只能是二进制文件",
+      "（C）可以是各种类型的文件",
+      "（D）只能是 ASCII 文件"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "用局域网方式连入 Internet，电脑上必须有_____",
+    "options": [
+      "（A）调制解调器",
+      "（B）打印机",
+      "（C）网卡",
+      "（D）串行口"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "最高级域名中，对应中华人民共和国的是________。",
+    "options": [
+      "（A）com",
+      "（B）gov",
+      "（C）org",
+      "（D）cn"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下________不属于局域网网络拓扑。",
+    "options": [
+      "（A）总线网",
+      "（B）星型",
+      "（C）复杂型",
+      "（D）环型"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "企业内部网是采用 TCP/IP 技术，集 LAN、WAN 和数据服务为一体的一种网络，它也称为____。",
+    "options": [
+      "（A）广域网",
+      "（B）Internet",
+      "（C）局域网",
+      "（D）Intranet"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 属于____。",
+    "options": [
+      "（A）局域网",
+      "（B）广域网",
+      "（C）全局网",
+      "（D）主干网"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机网络按网络范围和计算机之间互连的距离分类，可分为 。",
+    "options": [
+      "（A）Internet 和 Intranet",
+      "（B）总线型、星型、环型、树型和混合型网络",
+      "（C）WAN、MAN、LAN",
+      "（D）公用网和专用网"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 采用 协议进行信息传送。",
+    "options": [
+      "（A）TCP/IP",
+      "（B）IPX/SPX 兼容",
+      "（C）NetBEUI",
+      "（D）以上三种皆可"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "学校机房网络物理拓扑结构一般采用______。",
+    "options": [
+      "（A）总线型",
+      "（B）星型",
+      "（C）网状型",
+      "（D）环型"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet Explorer 浏览器本质上是一个_____。",
+    "options": [
+      "（A）连入 Internet 的 TCP／IP 程序",
+      "（B）连入 Internet 的 SNMP 程序",
+      "（C）浏览 Internet 上 Web 页面的服务器程序",
+      "（D）浏览 Internet 上 Web 页面的客户程序"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于电子邮件信箱的叙述正确的是_____。",
+    "options": [
+      "（A）电子邮件信箱设置在用户自己的微机上",
+      "（B）电子邮件信箱设置在提供邮件服务的服务器上",
+      "（C）电子邮件信箱设置在与用户通信另一方的主机上",
+      "（D）电子邮件信箱既可以设置在服务器上，也可以设置在用户的主机上"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 与 WWW 的关系是_____。",
+    "options": [
+      "（A）Internet 与 WWW 没有关系",
+      "（B）Internet 就是 WWW",
+      "（C）都是互联网，只是名称不同",
+      "（D）WWW 是 Internet 上的一种应用"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "服务器_______。",
+    "options": [
+      "（A）不是计算机",
+      "（B）是为个人服务的计算机",
+      "（C）是为多用户服务的计算机",
+      "（D）是便携式计算机的别名"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "将网络划分为广域网（WAN）、城域网（MAN）和局域网（LAN），是以_____分类的。",
+    "options": [
+      "（A）接入的计算机多少",
+      "（B）接入的计算机类型",
+      "（C）拓扑类型",
+      "（D）地理范围"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子邮件地址由“用户名@”和________组成。",
+    "options": [
+      "（A）网络服务器名",
+      "（B）邮件服务器域名",
+      "（C）本地服务器名",
+      "（D）邮件名"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列四项内容中，不属于 Internet 基本功能是________。",
+    "options": [
+      "（A）电子邮件",
+      "（B）文件传输",
+      "（C）远程登录",
+      "（D）实时监测控制"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 这个词的含义是______。",
+    "options": [
+      "（A）计算机网络",
+      "（B）电子邮件",
+      "（C）全球最大的、开放的、有众多网络相互连接而成的计算机网络",
+      "（D）全球最大的、开放的、有众多网络相互连接而成，专供浏览信息的计算机网络"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "直接接人因特网的每一台计算机(节点主机)都必须有一个________。",
+    "options": [
+      "（A）IP 地址",
+      "（B）E-mail 地址",
+      "（C）域名",
+      "（D）用户名和密码"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在计算机网络中，表征数据传输可靠性的指标是______。",
+    "options": [
+      "（A）传输率",
+      "（B）误码率",
+      "（C）信息容量",
+      "（D）频带利用率"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "关于网页和网站的描述，正确的是_____。",
+    "options": [
+      "（A）网页和网站是同一概念",
+      "（B）网站中可包含多个网页",
+      "（C）网页和网站是两个没有联系的概念",
+      "（D）在网页中进行网站的设置"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 实现了分布在世界各地的各类网络的互联，其最基础和核心的协议是",
+    "options": [
+      "（A）TCP/IP",
+      "（B）FTP",
+      "（C）HTML",
+      "（D）HTTP"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "通过 Internet 发送或接收电子邮件（E-mail）的首要条件是应该有一个电子邮件（E-mail）地址，它的正确形式是______。",
+    "options": [
+      "（A）用户名@域名",
+      "（B）用户名#域名",
+      "（C）用户名/域名",
+      "（D）用户名.域名"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "从 www.shdz.edu.cn 可以看出它是中国的一个_____部门站点。",
+    "options": [
+      "（A）政府部门",
+      "（B）军事部门",
+      "（C）商业组织",
+      "（D）教育部门"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "计算机网络的目标是实现____。",
+    "options": [
+      "（A）数据处理",
+      "（B）文献检索",
+      "（C）资源共享和信息传输",
+      "（D）信息传输"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "主机域名与 IP 地址的关系是______。",
+    "options": [
+      "（A）一一对应",
+      "（B）域名与地址没有任何关系",
+      "（C）一个域名对应多 IP 地址",
+      "（D）一个 IP 地址对应多个域名"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "邮件地址 abc123@163.com 中的 abc123 表示________。",
+    "options": [
+      "（A）用户名",
+      "（B）网络名",
+      "（C）主机名",
+      "（D）邮件名"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列给出的 4 项中，不属于计算机病毒特征的是_____。",
+    "options": [
+      "（A）潜伏性",
+      "（B）激发性",
+      "（C）传播性",
+      "（D）免疫性"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 最早起源于______。",
+    "options": [
+      "（A）ARPANET",
+      "（B）NSFNET",
+      "（C）WWW",
+      "（D）BBS"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "目前使用的防病软件的作用是____。",
+    "options": [
+      "（A）清除己感染的任何病毒",
+      "（B）查出已知名的病毒，清除部分病毒",
+      "（C）清除任何己感染的病毒",
+      "（D）查出并清除任何病毒"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下关于 WWW 的说法中，正确的是______。",
+    "options": [
+      "（A）WWW 指国际互连网",
+      "（B）WWW 指万维网",
+      "（C）WWW 指综合数据网",
+      "（D）WWW 指电子数据交换网"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "网络的主要用途之一是允许共享资源，在网络上提供共享资源即服务的计算机称为______。",
+    "options": [
+      "（A）主机",
+      "（B）客户机",
+      "（C）网络服务器",
+      "（D）网络新闻中心"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "______是属于传输信号的信道。",
+    "options": [
+      "（A）电话线、电源线、接地线",
+      "（B）电源线、双绞线、接地线",
+      "（C）双绞线、同轴电缆、光纤",
+      "（D）电源线、光纤、双绞线"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "______不是信息传送速率比特的单位。",
+    "options": [
+      "（A）bit/s",
+      "（B）b/s",
+      "（C）bps",
+      "（D）t/s"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 的核心内容之一是______。",
+    "options": [
+      "（A）全球程序共享",
+      "（B）全球设备共享",
+      "（C）全球信息共享",
+      "（D）全球指令共享"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "网络类型按通信范围分为______。",
+    "options": [
+      "（A）局域网、以太网、广域网",
+      "（B）局域网、城域网、广域网",
+      "（C）电缆网、城域网、广域网",
+      "（D）中继网、局域网、广域网"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "将文件从 FTP 服务器传输到客户机的过程称为________。",
+    "options": [
+      "（A）上传",
+      "（B）下载",
+      "（C）浏览",
+      "（D）传送"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "WWW 采用______技术，使得用户以通用而简单的办法就可获得各种信息。",
+    "options": [
+      "（A）超文本",
+      "（B）FTP",
+      "（C）远程登录",
+      "（D）网络新闻"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在 Internet 上收发 E-mail 的协议不包括________。",
+    "options": [
+      "（A）SMTP",
+      "（B）POP3",
+      "（C）ARP",
+      "（D）IMAP"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "网络协议就是______。",
+    "options": [
+      "（A）服务器的资源",
+      "（B）一种资源共享的形式",
+      "（C）计算机之间相互进行数据通信而事先商定的规则",
+      "（D）网络新闻中心"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "会导致远程服务器上的站点无法访问的是：________。",
+    "options": [
+      "（A）关闭其防火墙",
+      "（B）关闭其防病毒软件",
+      "（C）关闭其 FTP 服务",
+      "（D）关闭其 Web 服务"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "接入 Internet 的计算机必须共同遵守______。",
+    "options": [
+      "（A）CPI/IP 协议",
+      "（B）PCI/IP 协议",
+      "（C）CTC/IP 协议",
+      "（D）TCP/IP 协议"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 上计算机的名字由许多域构成，域间用______分隔。",
+    "options": [
+      "（A）小圆点",
+      "（B）逗号",
+      "（C）分号",
+      "（D）冒号"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "DNS（域名系统）完成的工作：从一种容易记忆的网络服务器名到计算机容易处理的_____之间的映射。",
+    "options": [
+      "（A）域名地址",
+      "（B）URL 地址",
+      "（C）主页地址",
+      "（D）IP 地址"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "DNS 的含义是______。",
+    "options": [
+      "（A）域名系统",
+      "（B）发送邮件服务器",
+      "（C）接收邮件服务器",
+      "（D）动态主机"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "Internet 上的域名采用______结构。",
+    "options": [
+      "（A）关系",
+      "（B）网络",
+      "（C）层次",
+      "（D）分类"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "对远程服务器上的文件进行维护时，通常采用的手段是________。",
+    "options": [
+      "（A）POP3",
+      "（B）FTP",
+      "（C）SMTP",
+      "（D）Gopher"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "如果使用 IE 上网浏览网站信息，这使用的是互联网的______服务。",
+    "options": [
+      "（A）FTP",
+      "（B）Telnet",
+      "（C）电子邮件",
+      "（D）WWW"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "______是用来标识政府机构的域名。",
+    "options": [
+      "（A）gov",
+      "（B）int",
+      "（C）mil",
+      "（D）org"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "LAN 是________的缩写。",
+    "options": [
+      "（A）超文本标记语言",
+      "（B）电子公告板",
+      "（C）网络电话",
+      "（D）局域网"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在网址 http://www. IBM.com 中，com 表示______。",
+    "options": [
+      "（A）文件后缀",
+      "（B）域名一部分",
+      "（C）服务器",
+      "（D）无任何含义"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "1965 年科学家提出超文本概念，其超文本的核心是______。",
+    "options": [
+      "（A）链接",
+      "（B）网络",
+      "（C）图像",
+      "（D）声音"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在网址 http://www.IBM.com 中，IBM 表示 。",
+    "options": [
+      "（A）品牌名",
+      "（B）服务器",
+      "（C）公司名",
+      "（D）域名"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在企业内部网与外部网之间，用来检查网络请求分组是否合法，保护网络资源不被非法使用的技术是______",
+    "options": [
+      "（A）防病毒技术",
+      "（B）防火墙技术",
+      "（C）差错控制技术",
+      "（D）流量控制技术"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "以下______不属于中国的四大骨干网。",
+    "options": [
+      "（A）中国教育科研网",
+      "（B）中国科学技术网",
+      "（C）中国公用信息网",
+      "（D）上海热线"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "在浏览器中，从一个页面转到刚才看过的另一个页面，应使用______按钮。",
+    "options": [
+      "（A）前进",
+      "（B）后退",
+      "（C）收藏",
+      "（D）刷新"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "常用的 IP 地址包括 ABC 三大类，其中，",
+    "options": [
+      "（A）1-126",
+      "（B）128-191",
+      "（C）1-168",
+      "（D）1-172"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "某用户的 E-mail 地址为 abcde@online.sh.cn，则该用户的用户名为______。",
+    "options": [
+      "（A）abcde",
+      "（B）online",
+      "（C）sh",
+      "（D）online.sh.cn"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "要将一封邮件同时发送给几个人，可以在收件人栏中输入他们的地址，并用______分隔。",
+    "options": [
+      "（A）,（逗号）",
+      "（B）'（单引号）",
+      "（C）/（斜杠）",
+      "（D）、（顿号）"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在“收件箱”和“已发送邮件”文件夹中被删除的邮件会转移到“已删除邮件”文件夹中，那么在“已删除邮件”中选中某邮件点击“删除”按钮，该邮件将会______。",
+    "options": [
+      "（A）进入“回收站”",
+      "（B）进入“草稿”文件夹",
+      "（C）被彻底删除",
+      "（D）无任何反应"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "IP 地址由______段用点号分隔开的数字组成。",
+    "options": [
+      "（A）1",
+      "（B）2",
+      "（C）3",
+      "（D）4"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子邮件（E-mail）是现代通信技术和 综合发展的产物。",
+    "options": [
+      "（A）计算机网络技术",
+      "（B）计算机总线技术",
+      "（C）计算机接口技术",
+      "（D）计算机存贮技术"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子邮件（E-mail）本质是 。",
+    "options": [
+      "（A）一个电子文件",
+      "（B）一个电子表格",
+      "（C）一个电子网络",
+      "（D）一个电子邮箱"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "将本地计算机的文件传送到远程计算机上的过程称为________。",
+    "options": [
+      "（A）下载",
+      "（B）上传",
+      "（C）登录",
+      "（D）浏览"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在因特网域名中，com 通常表示________。",
+    "options": [
+      "（A）商业组织",
+      "（B）教育机构",
+      "（C）政府部门",
+      "（D）军事部门"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "域名是用来标识 。",
+    "options": [
+      "（A）不同的地域",
+      "（B）Internet 上特定的主机",
+      "（C）不同风格的网站",
+      "（D）盈利与非盈利网站"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "是用来表示教育部门的。",
+    "options": [
+      "（A）gov",
+      "（B）edu",
+      "（C）mil",
+      "（D）org"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "主页（Home Page）是 。",
+    "options": [
+      "（A）文件名为 main.html 的 web 页面",
+      "（B）文件名为 main.htm 的 web 页面",
+      "（C）未指定文件名而访问一 web 站点时，由服务器发来的第一个页面",
+      "（D）进入 IE 后所显示的第一个页面"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "IE 的工具栏中的“主页”按钮是用于转到 。",
+    "options": [
+      "（A）Microsoft 公司的主页",
+      "（B）正在访问的站点的主页",
+      "（C）进入 IE 后所显示的第一个页面",
+      "（D）用户的个人主页"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "IE 的工具栏中的“主页”、“前进”、“后退”、“停止”、“刷新”功能可用菜单中的相应命令来完成。",
+    "options": [
+      "（A）文件",
+      "（B）编辑",
+      "（C）查看",
+      "（D）工具"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "IE 中的“收藏”菜单中的项目是 文件夹中的快捷方式或子目录。",
+    "options": [
+      "（A）Windows/Favorites",
+      "（B）Windows/System",
+      "（C）Windows/收藏夹",
+      "（D）Windows/Temporary Internet Files"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "进入 Temporary Internet Files 文件夹后，所列出的文件都是 。",
+    "options": [
+      "（A）Internet 文件",
+      "（B）已访问过的站点的网址",
+      "（C）收藏夹中的内容",
+      "（D）包含指向实际文件的索引"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "IE 中打开文件时，文件的 URL 会保存在 文件夹中。",
+    "options": [
+      "（A）Windows/History",
+      "（B）Windows/Temp",
+      "（C）Program Files/Internet Explorer",
+      "（D）Windows/Favorites"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在“Internet 选项”中单击“清除历史记录”按钮后， 。",
+    "options": [
+      "（A）会清空 Temporary Internet Files 文件夹",
+      "（B）会删除 History 文件夹中所有的 URL",
+      "（C）会清空收藏夹中的所有内容",
+      "（D）将再也不能离线浏览以前访问过的站点"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "是 IE 无法显示的目标文件。",
+    "options": [
+      "（A）HTML web 页面",
+      "（B）应用程序文件",
+      "（C）GIF 图形文件",
+      "（D）JPEG 图形文件"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "在电子邮件中所包含的信息 。",
+    "options": [
+      "（A）文字",
+      "（B）图象",
+      "（C）声音",
+      "（D）可以是文字、声音和图形图象信息"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "为了使自己的文件让其他同学浏览，又不想让他们修改文件，一般可将包含该文件的文件夹共享属性的访问类型设置为_____。",
+    "options": [
+      "（A）隐藏",
+      "（B）完全",
+      "（C）只读",
+      "（D）不共享\""
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "某用户用的计算机主机域名为 126.com，用户名为 user1，他的 E-mail 地址为_____。",
+    "options": [
+      "（A）126.com @user1",
+      "（B）user1@126.com",
+      "（C）user1.126@com",
+      "（D）user1@126"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "TCP/IP在互联网中的作用是________。",
+    "options": [
+      "（A）定义一套网间互联的通信规则或标准",
+      "（B）定义采用哪一种操作系统",
+      "（C）定义采用哪一种电缆互联",
+      "（D）定义采用哪一种程序语言"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "FTP 是 Internet 提供的_________类型服务。",
+    "options": [
+      "（A）远程登录",
+      "（B）文件传输",
+      "（C）电子公告板",
+      "（D）电子邮件"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "为了便于阅读和理解，IP 地址可以用 4 组十进制数表示，每组数字取值范围为________。",
+    "options": [
+      "（A）0~128",
+      "（B）1~256",
+      "（C）0~255",
+      "（D）1~1024"
+    ],
+    "answer": "C"
+  },
+  {
+    "type": "single_choice",
+    "question": "域名与 IP 地址通过____________进行转换。",
+    "options": [
+      "（A）DNS",
+      "（B）WWW",
+      "（C）URL",
+      "（D）FTP"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "ISP 指的是___________。",
+    "options": [
+      "（A）Internet 服务商",
+      "（B）信息服务商",
+      "（C）硬件产品供应商",
+      "（D）软件产品供应商"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "要能顺利发送和接收电子邮件，下列设备必需的是_____。",
+    "options": [
+      "（A）打印机",
+      "（B）邮件服务器",
+      "（C）扫描仪",
+      "（D）Web 服务器"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "常见的网络信息系统不安全因素包括_____。",
+    "options": [
+      "（A）网络因素",
+      "（B）应用因素",
+      "（C）管理因素",
+      "（D）以上皆是"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "对计算机病毒的预防主要是_____。",
+    "options": [
+      "（A）提高认识",
+      "（B）管理方法",
+      "（C）技术手段",
+      "（D）管理方法与技术手段"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "用 Outlook Express 接收电子邮件时，收到的邮件中带有回形针状标志，说明该邮件____。",
+    "options": [
+      "（A）有病毒",
+      "（B）有附件",
+      "（C）没有附件",
+      "（D）有黑客"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "欲将一个 play.exe 文件发送给远方的朋友，可以把该文件放在电子邮件的____。",
+    "options": [
+      "（A）正文中",
+      "（B）附件中",
+      "（C）主题中",
+      "（D）地址中"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "电子邮件地址 stu@zjschool.com 中的 zjschool.com 是代表____。",
+    "options": [
+      "（A）用户名",
+      "（B）学校名",
+      "（C）学生姓名",
+      "（D）邮件服务器名称"
+    ],
+    "answer": "D"
+  },
+  {
+    "type": "single_choice",
+    "question": "下列各选项中，可用于广域网的拓扑结构是_________。",
+    "options": [
+      "（A）总线型",
+      "（B）网状结构",
+      "（C）星型",
+      "（D）环型"
+    ],
+    "answer": "B"
+  },
+  {
+    "type": "single_choice",
+    "question": "_________是广播地址。",
+    "options": [
+      "（A）200.8.255.255",
+      "（B）127.0.0.1",
+      "（C）192.168.0.0",
+      "（D）127.0.0.255"
+    ],
+    "answer": "A"
+  },
+  {
+    "type": "single_choice",
+    "question": "在星型局域网结构中，连接文件服务器与工作站的设备可以是_________。",
+    "options": [
+      "（A）中继站",
+      "（B）基站",
+      "（C）卫星",
+      "（D）集线器"
+    ],
+    "answer": "D"
+  }
+]
